@@ -8,7 +8,7 @@ exports.getSpotifyApi = async function () {
     });
 
     const authorizeURL = await spotifyApi.createAuthorizeURL(
-        ['playlist-read-private', 'playlist-read-collaborative', 'playlist-modify-private', 'user-read-private', 'user-read-email', 'user-library-read'],
+        ['playlist-read-private', 'playlist-read-collaborative', 'playlist-modify-private', 'user-read-private', 'user-read-email', 'user-library-read', 'user-library-modify'],
         'state'
     );
     console.log('Authorize URL:', authorizeURL);

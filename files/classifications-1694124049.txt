@@ -1,0 +1,1216 @@
+{"song":"Care Of Cell 44 - The Zombies","uri":"spotify:track:5QXqz1KDz8Z8DmfQoxWmmy","classification":"classic & contemporary rock"}
+{"song":"L'amour, l'amour, l'amour - Bon Entendeur","uri":"spotify:track:6OGpURRDL26WAeouxgnfX9","classification":"french stuff"}
+{"song":"Tiralo - Many Malon","uri":"spotify:track:3OAsnkxmP6iLu2E0Yd4usB","classification":"world music"}
+{"song":"I'm Not In Love - 10cc","uri":"spotify:track:5HQEmiV2lKnSO6qa2fsR7x","classification":"classic & contemporary rock"}
+{"song":"Ella Baila Sola - Eslabon Armado","uri":"spotify:track:3dnP0JxCgygwQH9Gm7q7nb","classification":"hindi music"}
+{"song":"mirror - Luna Li","uri":"spotify:track:20jwGZMmI7Cl9Kd5O8yJrQ","classification":"folk & acoustic"}
+{"song":"Soltero - Grupo Niche","uri":"spotify:track:3Yv51AJMdJqf7aoGdUy9KZ","classification":"world music"}
+{"song":"Sossaup - KAYTRAMINÉ","uri":"spotify:track:6y5UMIVVJDsULZwfZ0bNRX","classification":"electronic indie & chill"}
+{"song":"Fever - Dua Lipa","uri":"spotify:track:3F1P0QzdXtBz0MXy7KIO5w","classification":"electronic indie & chill"}
+{"song":"Nuestro Sueño - Grupo Niche","uri":"spotify:track:0g9d2hcBECm8eOuxG9w5kH","classification":"world music"}
+{"song":"Tajdar-E-Haram - Atif Aslam","uri":"spotify:track:5euB7CZQXxjqe2s2Bb8KWl","classification":"hindi music"}
+{"song":"Susanna - The Art Company","uri":"spotify:track:36WtQjrOw4vyYsErsyUvQO","classification":"classic & contemporary rock"}
+{"song":"Mesdames - Grand Corps Malade","uri":"spotify:track:509AITjdQYNihHOLBWBCg3","classification":"french stuff"}
+{"song":"Balance ton quoi - Angèle","uri":"spotify:track:2jX5c5RFp0A9E1GDsvGxIa","classification":"french stuff"}
+{"song":"Chalouper - Gaël Faye","uri":"spotify:track:4P89bNZVTCmu3zT0IBNLS8","classification":"french stuff"}
+{"song":"Bruxelles je t’aime - Angèle","uri":"spotify:track:4sOjKbpa7RLZVRNxcO26eb","classification":"french stuff"}
+{"song":"Katmandu - Yusuf / Cat Stevens","uri":"spotify:track:02SItk7vCciMvQnbbkvQ7c","classification":"world music"}
+{"song":"Dommage - Bigflo & Oli","uri":"spotify:track:0J2a0afQcr63ymGo5hKCDo","classification":"hindi music"}
+{"song":"Lovestone - Micah Edwards","uri":"spotify:track:3dq3nRBGMcXmfY4iC6Jess","classification":"folk & acoustic"}
+{"song":"Back To Black - Amy Winehouse","uri":"spotify:track:3FAclTFfvUuQYnEsptbK8w","classification":"classic & contemporary rock"}
+{"song":"Tum Se Hi - Pritam","uri":"spotify:track:7eQl3Yqv35ioqUfveKHitE","classification":"hindi music"}
+{"song":"El Cantante - Héctor Lavoe","uri":"spotify:track:5Uve0jm1RgxKWzdSvncBDO","classification":"world music"}
+{"song":"booman - Baby Keem","uri":"spotify:track:5IaDjUnitDhXbC5vboSiOi","classification":"hip hop & rap"}
+{"song":"Llorarás - Dimension Latina","uri":"spotify:track:2naqSVQHgiaoEpxtkVOhmK","classification":"world music"}
+{"song":"Mil Horas - Alvaro Pavas","uri":"spotify:track:415WOC7qIqb1pvOOhe90si","classification":"world music"}
+{"song":"Se Acabó el Amor - Adolescent's Orquesta","uri":"spotify:track:7nxoTSiir8y3vF8HPhFmQ9","classification":"world music"}
+{"song":"Sin Sentimientos - Grupo Niche","uri":"spotify:track:4ubwzNjqHGaZZ5k06PDx1H","classification":"world music"}
+{"song":"Bin Tere Sanam - Udit Narayan","uri":"spotify:track:0qukxG69SSFA0n1qyR6szS","classification":"hindi music"}
+{"song":"Yaar Bina Chain Kanha Ray - Bappi Lahiri","uri":"spotify:track:5k38rm1bPeiKG6D12s4XoN","classification":"hindi music"}
+{"song":"Bachna Ae Hasinon Lo Main Aa Gaya - Kishore Kumar","uri":"spotify:track:2OgrkwXu5BdEEtpZTWrUPF","classification":"hindi music"}
+{"song":"Rolling in the Deep - Bossa Nova Covers","uri":"spotify:track:2Mm8gYk1g6LQEssmIAMGTJ","classification":"world music"}
+{"song":"Dance Monkey - Bossa Nova Covers","uri":"spotify:track:3fYbVcq4HYnh2BMoKorBiC","classification":"world music"}
+{"song":"Cold Heart - PNAU Remix - Elton John","uri":"spotify:track:7rglLriMNBPAyuJOMGwi39","classification":"electronic dance"}
+{"song":"Way Out - FKJ","uri":"spotify:track:54vmnIj6yLipSrw1KMK3zg","classification":"electronic indie & chill"}
+{"song":"Greener - FKJ","uri":"spotify:track:63m0IDtaFrriTDW9vDqoXy","classification":"electronic indie & chill"}
+{"song":"Love Song (feat. Glasses) - Kazy Lambist","uri":"spotify:track:0fD6vPYWty2Jy4VVozWzfp","classification":"electronic indie & chill"}
+{"song":"Go Boy - ODIE","uri":"spotify:track:5J8ojwDIVnf6ZPwT8f32sQ","classification":"hip hop & rap"}
+{"song":"Painting Greys - Emmit Fenn","uri":"spotify:track:00ML9bd4jcQYGJ1h9dWR2q","classification":"electronic indie & chill"}
+{"song":"Prone - Masego","uri":"spotify:track:5KaIIT6ijzJvlZPPiJby36","classification":"electronic indie & chill"}
+{"song":"Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix - Maverick Sabre","uri":"spotify:track:5PNvgiKSwMdjBsDsgFCFLX","classification":"electronic dance"}
+{"song":"Calm Down - Rema","uri":"spotify:track:6hgoYQDUcPyCz7LcTUHKxa","classification":"hip hop & rap"}
+{"song":"Santa Habibi - Naser Al Azzeh","uri":"spotify:track:5n9nd9bB2fyJOLzGmP72MR","classification":"hindi music"}
+{"song":"Do You Like Me? - Daniel Caesar","uri":"spotify:track:4deAN7JXhdHHifxOp0TTjU","classification":"folk & acoustic"}
+{"song":"Toronto 2014 (with Mustafa) - Daniel Caesar","uri":"spotify:track:4t9R5rbtovdvya28uMODDz","classification":"folk & acoustic"}
+{"song":"West Coast Love - Emotional Oranges","uri":"spotify:track:4NFD9ea0uH0MtoC30yNYE1","classification":"electronic indie & chill"}
+{"song":"Dusk Till Dawn (feat. Sia) - Radio Edit - ZAYN","uri":"spotify:track:3e7sxremeOE3wTySiOhGiP","classification":"electronic indie & chill"}
+{"song":"Selfless - The Strokes","uri":"spotify:track:2t0wwvR15fc3K1ey8OiOaN","classification":"classic & contemporary rock"}
+{"song":"Elastico - svegliaginevra","uri":"spotify:track:51yhiEZ2zNZpXB6O8X40I0","classification":"electronic indie & chill"}
+{"song":"Rose Pink Cadillac - DOPE LEMON","uri":"spotify:track:1hzh9Hz7urXIxfH0WztWI2","classification":"classic & contemporary rock"}
+{"song":"Leave It Alone - Vandelux","uri":"spotify:track:0r5Z0wgmOYDWHnhN4f8DtV","classification":"electronic indie & chill"}
+{"song":"Swim and Sleep (Like a Shark) - Unknown Mortal Orchestra","uri":"spotify:track:1UcgqK04vVmW8aXV2OxGiZ","classification":"folk & acoustic"}
+{"song":"Doris - Khruangbin","uri":"spotify:track:01psXbOBykOM12RHATPCjr","classification":"world music"}
+{"song":"If I Ever Feel Better - Phoenix","uri":"spotify:track:3AA8xNhDC0MpqwkGX3EP5V","classification":"classic & contemporary rock"}
+{"song":"Shot My Baby - Daniel Caesar","uri":"spotify:track:6lrYBcuR6Q1YWtSGFmJ48H","classification":"hip hop & rap"}
+{"song":"Ocho Rios - Daniel Caesar","uri":"spotify:track:4N1bImT4gKiioHdC9oqlaY","classification":"world music"}
+{"song":"Dirty Daddy - Great Dane","uri":"spotify:track:3IjZtBMbzuCna3ndCo0War","classification":"electronic indie & chill"}
+{"song":"Lost in My Boots - KWAYE","uri":"spotify:track:21Fdug0H6MgbWKXagwWUhb","classification":"electronic indie & chill"}
+{"song":"So Far Away - Avenged Sevenfold","uri":"spotify:track:7Hr1Ignop7cymbE3FbOtXa","classification":"classic & contemporary rock"}
+{"song":"Dear God - Avenged Sevenfold","uri":"spotify:track:2FML7gk7ac6quGFIjvkDb3","classification":"classic & contemporary rock"}
+{"song":"Seize the Day - Avenged Sevenfold","uri":"spotify:track:7HKRWMTErKh56EIBeFcmdf","classification":"classic & contemporary rock"}
+{"song":"Pagan Angel and a Borrowed Car - Iron & Wine","uri":"spotify:track:05ztwxC3YMxGMyxib3ZcQl","classification":"folk & acoustic"}
+{"song":"The Adults Are Talking - The Strokes","uri":"spotify:track:5ruzrDWcT0vuJIOMW7gMnW","classification":"classic & contemporary rock"}
+{"song":"KILL DEM - Jamie xx","uri":"spotify:track:5CE0k1VmTXgCtaa5L288LP","classification":"electronic dance"}
+{"song":"Summertime - The Zombies","uri":"spotify:track:49TIT8O6KR9rdfgVBwdbac","classification":"classic & contemporary rock"}
+{"song":"bag or die - bbno$","uri":"spotify:track:7FQhRfLwklMayNW3MC27up","classification":"hip hop & rap"}
+{"song":"After Midnight (feat. Clairo) - Phoenix","uri":"spotify:track:0KIpuVYhKUUUpjo6H5NvBY","classification":"electronic indie & chill"}
+{"song":"After Midnight - Phoenix","uri":"spotify:track:21rpBPAlXAvBavvu5kCQzs","classification":"electronic indie & chill"}
+{"song":"We Were Kids - Yawn","uri":"spotify:track:1irbwV3h7H35AnAYseLBOE","classification":"folk & acoustic"}
+{"song":"Damn It Feels Good To Be Me - Andy Grammer","uri":"spotify:track:3LymIBUSWRoxxm7W5UQlXl","classification":"classic & contemporary rock"}
+{"song":"Sinking Underwater - Miguel Maravilla","uri":"spotify:track:1dGqn2sS0L3WCLykEU50n2","classification":"electronic indie & chill"}
+{"song":"Always (Is Such A Strong Word) - Miguel Maravilla","uri":"spotify:track:4eA8xoVk341we9dMDcOHyQ","classification":"classic & contemporary rock"}
+{"song":"Chupee - Cocoon","uri":"spotify:track:0dXyHRIR9H4AfkEHGDsrSU","classification":"folk & acoustic"}
+{"song":"Porteghale Man - Marjan Farsad","uri":"spotify:track:26ZUqzEsctCAWDMe8bmThO","classification":"world music"}
+{"song":"Butter (feat. DJ Lucci) - Sage The Gemini","uri":"spotify:track:795qeY9x7NmfYJOZ9dQY0Y","classification":"hip hop & rap"}
+{"song":"The Wonder Of You - Villagers","uri":"spotify:track:3gwurt17Arq2OTWaM7qZPW","classification":"folk & acoustic"}
+{"song":"Dawning On Me - Villagers","uri":"spotify:track:1widQ9TODdm2HQT95lgfQg","classification":"folk & acoustic"}
+{"song":"Everything I Am Is Yours - Villagers","uri":"spotify:track:281ioxkZbJ3p9hCvjD2bon","classification":"folk & acoustic"}
+{"song":"Poles Apart - Pink Floyd","uri":"spotify:track:6uE9hF8fIb6shBXrrzA12U","classification":"classic & contemporary rock"}
+{"song":"You - Manwolves","uri":"spotify:track:3y7c8Hx1jbIrSYgTW9lRF4","classification":"hip hop & rap"}
+{"song":"Sky Saw - 2004 Digital Remaster - Brian Eno","uri":"spotify:track:1sr1NnVTSUZL2xGzlkiq1G","classification":"classic & contemporary rock"}
+{"song":"Blessed - Daniel Caesar","uri":"spotify:track:0KyzXQhY2yzcb1FYCHkZc2","classification":"hip hop & rap"}
+{"song":"Deep Diver - Manwolves","uri":"spotify:track:3apbF5HFs7m1tjVlg3AvRN","classification":"hip hop & rap"}
+{"song":"Doorie - Twin Strings","uri":"spotify:track:1Dc4zs4hnrqbz4pV44uT8g","classification":"hindi music"}
+{"song":"Khooneye Ma - Marjan Farsad","uri":"spotify:track:6uJREg38Kh42NdHswq67VH","classification":"hindi music"}
+{"song":"God Is Fair, Sexy Nasty (feat. Kendrick Lamar) - Mac Miller","uri":"spotify:track:6hzbRKhJHo6cfCHSnNaDS8","classification":"hip hop & rap"}
+{"song":"Thoroughfare - Ethel Cain","uri":"spotify:track:04P1ylRDzyxBIl9W0UNWXC","classification":"folk & acoustic"}
+{"song":"Spooky - L00Z","uri":"spotify:track:70jtr0mKiyIaCCG8o9KrD6","classification":"electronic indie & chill"}
+{"song":"Catch the Wind - Donovan","uri":"spotify:track:6aXKbU2QGsOms8UT3eUOg1","classification":"folk & acoustic"}
+{"song":"I Need You Around Me - Gibs","uri":"spotify:track:04RTimTAyzIKLneC9TwRcj","classification":"electronic indie & chill"}
+{"song":"Love, You Ain't All That - Herschey","uri":"spotify:track:40TsQ5myTwoiAVIHA4VAd7","classification":"folk & acoustic"}
+{"song":"Bathroom Light - Mt. Joy","uri":"spotify:track:71glNHT4FultOqlau4zrFf","classification":"folk & acoustic"}
+{"song":"Joey - Bob Dylan","uri":"spotify:track:3sXLemtrtO6ygZF0G4OIwI","classification":"classic & contemporary rock"}
+{"song":"Rivolta - Polo & Pan","uri":"spotify:track:6HPSzboswlKS4Juf6UvyPA","classification":"electronic indie & chill"}
+{"song":"Dragon Pom Z - Polo & Pan","uri":"spotify:track:25KQ7BI8UIbWlyK9QqaTlr","classification":"electronic indie & chill"}
+{"song":"Kehdena - Faizan","uri":"spotify:track:2pxnkj24Q74womJqc3nb57","classification":"hindi music"}
+{"song":"House Of The Rising Sun - Joan Baez","uri":"spotify:track:3AuVZyDw1VhjjLfHZR4ba3","classification":"folk & acoustic"}
+{"song":"Eleanor Rigby - Joan Baez","uri":"spotify:track:11g7tN5EprSCIwASIN6Jxn","classification":"folk & acoustic"}
+{"song":"There Is a Light That Never Goes Out - 2011 Remaster - The Smiths","uri":"spotify:track:0WQiDwKJclirSYG9v5tayI","classification":"classic & contemporary rock"}
+{"song":"Morning in the Sun - Rubblebucket","uri":"spotify:track:3Eky8qsLEeVjAILfAKytyC","classification":"folk & acoustic"}
+{"song":"Came out of a Lady - Rubblebucket","uri":"spotify:track:4EDhPDlCB6kXwn9q9LpQ0S","classification":"folk & acoustic"}
+{"song":"Melody - Lost Frequencies","uri":"spotify:track:7uTZbLZrF3gqyMdQ7p9XeG","classification":"electronic indie & chill"}
+{"song":"Season of the Witch - Donovan","uri":"spotify:track:6MOEQCtAWNSCmvg3SFKF5y","classification":"classic & contemporary rock"}
+{"song":"Duncan - Paul Simon","uri":"spotify:track:2SgNoPUi4SOUNmp2Y7SNQj","classification":"classic & contemporary rock"}
+{"song":"The Man in Me - Bob Dylan","uri":"spotify:track:7xRemq7GLu0Tbqe9OckG87","classification":"classic & contemporary rock"}
+{"song":"New Morning - Bob Dylan","uri":"spotify:track:1FIrnH3Dme6EyYNnd96svn","classification":"classic & contemporary rock"}
+{"song":"The Kiss - L'Impératrice","uri":"spotify:track:0tBk2Cr2gyTHuuL54m0TEk","classification":"french stuff"}
+{"song":"New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix - Gorillaz","uri":"spotify:track:2c3KCGq6UojB2c8UAFrRON","classification":"electronic indie & chill"}
+{"song":"Time to Get Away - LCD Soundsystem","uri":"spotify:track:18GKzOdnC7i30f7PraM5Ui","classification":"electronic indie & chill"}
+{"song":"Get Innocuous! - LCD Soundsystem","uri":"spotify:track:0Ct2XTT4UBt9Y196i0Ido2","classification":"electronic indie & chill"}
+{"song":"Kyllikki - Three Lyrical Pieces for Piano, Op. 41: II. Andantino - Jean Sibelius","uri":"spotify:track:4NpOTS4JPIUJLGOz6zfv5p","classification":"jazz & piano"}
+{"song":"Indian Summer - The Doors","uri":"spotify:track:2hdeaGl9nT3UoQIgSqctHj","classification":"classic & contemporary rock"}
+{"song":"Mother - Remastered 2010 - John Lennon","uri":"spotify:track:43Ud1IajwtBvw6ONj6aK2Q","classification":"classic & contemporary rock"}
+{"song":"You Ain't Goin' Nowhere - Studio Outtake - 1971 - Bob Dylan","uri":"spotify:track:4KmjzHcjcCxmNNBW2MmVf8","classification":"classic & contemporary rock"}
+{"song":"You Ain't Goin' Nowhere - Joan Baez","uri":"spotify:track:2dAKyu0VXvFqc1fOc0A6LS","classification":"folk & acoustic"}
+{"song":"Don't Think Twice, It's All Right - Joan Baez","uri":"spotify:track:5YqdrbmXUOYUjL7GYaSVSo","classification":"folk & acoustic"}
+{"song":"It's All Over Now, Baby Blue - Joan Baez","uri":"spotify:track:5oeFMb1rbllXWxafIFxX52","classification":"classic & contemporary rock"}
+{"song":"Bobo - Olamide","uri":"spotify:track:0N6lUfSwuOWlmP2YUGtIZb","classification":"hip hop & rap"}
+{"song":"Faithfully - Journey","uri":"spotify:track:57ebBLITHpRgRKGrlbxMZS","classification":"classic & contemporary rock"}
+{"song":"Sex on Fire - Kings of Leon","uri":"spotify:track:0ntQJM78wzOLVeCUAW7Y45","classification":"classic & contemporary rock"}
+{"song":"First Time in America - Naira Marley","uri":"spotify:track:15AioLuiCf2CxmHgWm1Gob","classification":"hip hop & rap"}
+{"song":"Avoid Things - Tems","uri":"spotify:track:2fw39xbq6pDrtzQB4M1MhV","classification":"hindi music"}
+{"song":"Both Sides Now - Joni Mitchell","uri":"spotify:track:5EsPLgSs1UQIDJG0U00RuJ","classification":"classic & contemporary rock"}
+{"song":"Little Green - Joni Mitchell","uri":"spotify:track:0HkdHu7VpgbA2NcEtZeCZd","classification":"folk & acoustic"}
+{"song":"Bodies - Drowning Pool","uri":"spotify:track:7CpbhqKUedOIrcvc94p60Y","classification":"classic & contemporary rock"}
+{"song":"Famous Blue Raincoat - Leonard Cohen","uri":"spotify:track:77K5TB5KZmDZCoJCdd1NvE","classification":"classic & contemporary rock"}
+{"song":"Furr - Blitzen Trapper","uri":"spotify:track:2fgbsGWU2Dum08uifQHhiB","classification":"classic & contemporary rock"}
+{"song":"Lady On the Water - Blitzen Trapper","uri":"spotify:track:4l9jbpaoqY2GLSGkwiWgzm","classification":"classic & contemporary rock"}
+{"song":"Ek Nagma - Lifafa","uri":"spotify:track:0wAIffslRgmzF0ktjHP7jB","classification":"hindi music"}
+{"song":"Din Raat - Lifafa","uri":"spotify:track:3i11tRylj2Z0J4VO4XXnp7","classification":"electronic indie & chill"}
+{"song":"Half Your Love - Bahamas","uri":"spotify:track:0ut7f4KB9sZQ8uhA4HyOMt","classification":"folk & acoustic"}
+{"song":"Stronger Than That - Bahamas","uri":"spotify:track:5kgyNmIytvTGGuiv0MwzZp","classification":"folk & acoustic"}
+{"song":"The Entertaining Of A Shy Girl - Donovan","uri":"spotify:track:0phT9WYvak5mt0lLe9nuKP","classification":"classic & contemporary rock"}
+{"song":"Whole Wide World - Bahamas","uri":"spotify:track:3e5eR2DBoHD2qR4HN3YmTv","classification":"folk & acoustic"}
+{"song":"Turning Green - Courtney Barnett","uri":"spotify:track:0D5QubHnwlwHmHvIVVSqik","classification":"folk & acoustic"}
+{"song":"New Gold (feat. Tame Impala and Bootie Brown) - Gorillaz","uri":"spotify:track:64dLd6rVqDLtkXFYrEUHIU","classification":"electronic indie & chill"}
+{"song":"Sath Nahi - mohit","uri":"spotify:track:5B1DhKf6odVt63qHlkfOBR","classification":"hindi music"}
+{"song":"On the Low - Burna Boy","uri":"spotify:track:1PoJXULCvl03b1fiZmMxmd","classification":"hip hop & rap"}
+{"song":"Cracker Island (feat. Thundercat) - Gorillaz","uri":"spotify:track:2W3ZpQg9i6lE6kmHbcdu9N","classification":"electronic indie & chill"}
+{"song":"Bends - Ralph Castelli","uri":"spotify:track:7neXef29cogkuASB5rTafo","classification":"electronic indie & chill"}
+{"song":"I’ll Be Your Mirror - Courtney Barnett","uri":"spotify:track:6WhararZxL2vL7XyL3UO0N","classification":"classic & contemporary rock"}
+{"song":"New Speedway Boogie - Courtney Barnett","uri":"spotify:track:7rlH5IVzRc5eCMiURVoUrI","classification":"classic & contemporary rock"}
+{"song":"Drop the Guillotine - Peach Pit","uri":"spotify:track:1gpBDeONibvJyQYEv5HJh9","classification":"classic & contemporary rock"}
+{"song":"Flightless Bird, American Mouth - Iron & Wine","uri":"spotify:track:1fEGtTZjrjJW8eUeewnNJR","classification":"folk & acoustic"}
+{"song":"Pedestrian at Best - Courtney Barnett","uri":"spotify:track:7gsn3NxWLA0s0g9TmQlMri","classification":"classic & contemporary rock"}
+{"song":"Avant Gardener - Courtney Barnett","uri":"spotify:track:3LueS3mbuB1yaJNN0Ale6U","classification":"folk & acoustic"}
+{"song":"In Da Getto - J Balvin","uri":"spotify:track:1q0PYXTbDsirp2l74ng6pn","classification":"hip hop & rap"}
+{"song":"telepatía - Kali Uchis","uri":"spotify:track:6tDDoYIxWvMLTdKpjFkc1B","classification":"electronic indie & chill"}
+{"song":"Dream A Little Dream Of Me - The Mamas & The Papas","uri":"spotify:track:27hhIs2fp6w06N5zx4Eaa5","classification":"classic & contemporary rock"}
+{"song":"Low - Cracker","uri":"spotify:track:6ctbCIikHbC6tSOL1rewQX","classification":"classic & contemporary rock"}
+{"song":"Bullets - Tunng","uri":"spotify:track:14XVZ4NPAT3cAOik3ZPGHE","classification":"folk & acoustic"}
+{"song":"Good Kisser - Lake Street Dive","uri":"spotify:track:7BDbyDs5FUmnh955RABFd7","classification":"folk & acoustic"}
+{"song":"Belated Promise Ring - Iron & Wine","uri":"spotify:track:4nB4WbQfIZZ49MYaQNiFG9","classification":"folk & acoustic"}
+{"song":"Warmness On The Soul - Avenged Sevenfold","uri":"spotify:track:018zT8xThRbMH2QeUoMlKQ","classification":"classic & contemporary rock"}
+{"song":"Swimming - Radio Edit - I'm Not A Band","uri":"spotify:track:7htroVk8Hi33D0eHHWsvX7","classification":"electronic indie & chill"}
+{"song":"ONE IN A MILLION - Rex Orange County","uri":"spotify:track:2XkDm5m2vPowecEAAR5gmb","classification":"electronic indie & chill"}
+{"song":"DO IT - KAYTRANADA","uri":"spotify:track:73IdeGI8Gt1XxcaQ6vBsyD","classification":"electronic dance"}
+{"song":"BUSS HER UP - Baby Keem","uri":"spotify:track:7qfO0IGkZ1a2OnUOkMoR4D","classification":"hip hop & rap"}
+{"song":"BULLIES - Baby Keem","uri":"spotify:track:5Ow3QqHeeA78Q3nSnbUbkL","classification":"hip hop & rap"}
+{"song":"Super Bass - Nicki Minaj","uri":"spotify:track:3hlksXnvbKogFdPbpO9vel","classification":"hip hop & rap"}
+{"song":"16 - Baby Keem","uri":"spotify:track:50lTDu2BnjyqWnUFsxMryJ","classification":"hip hop & rap"}
+{"song":"Aaj Na - Ritviz","uri":"spotify:track:322TxW77VZdX9gHynK5Xue","classification":"hindi music"}
+{"song":"Mehfooz - Ritviz","uri":"spotify:track:36jYuqoGDDlfZBst0p4JGy","classification":"electronic indie & chill"}
+{"song":"Break Someone New - Ila Amiri","uri":"spotify:track:02mzOEvMxWTvxnQz89Ka5T","classification":"folk & acoustic"}
+{"song":"Got It Bad - LEISURE","uri":"spotify:track:0oADgO0iK3YpTsPkVb2ptT","classification":"electronic indie & chill"}
+{"song":"Dolores - rusowsky","uri":"spotify:track:1wXeMZqegwYZ2zWtrwvXab","classification":"electronic indie & chill"}
+{"song":"So So - rusowsky","uri":"spotify:track:7s9xtALBX5o96TjRB7R078","classification":"electronic indie & chill"}
+{"song":"Sorbitol - Men I Trust","uri":"spotify:track:4VCYhzxyxsmf41R3Hvab0h","classification":"electronic indie & chill"}
+{"song":"Ya no siento nada - Alizzz","uri":"spotify:track:3JUaCIDpLc2kmY86lCm3aT","classification":"electronic indie & chill"}
+{"song":"mwah :3 - rusowsky","uri":"spotify:track:3PIECzRdxCWyAz6Poe4Rcp","classification":"electronic indie & chill"}
+{"song":"Hush - Still Woozy Remix - The Marías","uri":"spotify:track:4dGuRldChjvboZktprNJFM","classification":"electronic indie & chill"}
+{"song":"Pa Lé - David Walters","uri":"spotify:track:2nK0JwkBzP8wb6BTwsL6yv","classification":"world music"}
+{"song":"Two Less Lonely People In the World - Air Supply","uri":"spotify:track:28dAkHMn5LZI85O1UxIu6C","classification":"classic & contemporary rock"}
+{"song":"I Want to Give It All - Air Supply","uri":"spotify:track:6JMv8ssVfCIE9Wnx4dEHAN","classification":"classic & contemporary rock"}
+{"song":"Everything Eventually Ends - L'Impératrice","uri":"spotify:track:5LInOGDHqrgetnMlnvaDNq","classification":"french stuff"}
+{"song":"Akela - DIVINE","uri":"spotify:track:0VtNM1btLmDezSkrCOAi97","classification":"hip hop & rap"}
+{"song":"Khuda - Katoptris","uri":"spotify:track:0u0PtQOdiasy6rdfLgGwUk","classification":"electronic indie & chill"}
+{"song":"Bornfire - DIVINE","uri":"spotify:track:0MROyfaRrhcwpwEA8eBqdA","classification":"hip hop & rap"}
+{"song":"Spooky - Quinten 909 Extended Remix - Dusty Springfield","uri":"spotify:track:4pR0M3MWNjotbg7YOq9yn5","classification":"electronic dance"}
+{"song":"Moins joli - Iliona","uri":"spotify:track:2fgINBjLf7eCI3ky3n2gnS","classification":"french stuff"}
+{"song":"Sitara - DIVINE","uri":"spotify:track:3j796EeLMLBqwlzwufeS7c","classification":"hip hop & rap"}
+{"song":"Long Long Time - Sid Sriram","uri":"spotify:track:5oYRFfnZIBbAx2hCAwZVJd","classification":"hindi music"}
+{"song":"Baazigar - DIVINE","uri":"spotify:track:1T44wPr7LUlBY4vX6LlygG","classification":"hindi music"}
+{"song":"DAMNSON - Hanumankind","uri":"spotify:track:630ZXewu63FXyhoiKpO6tC","classification":"hip hop & rap"}
+{"song":"Gunehgar - DIVINE","uri":"spotify:track:4hzDCJUFDyk66oIBirPiCl","classification":"hip hop & rap"}
+{"song":"3:59 AM - DIVINE","uri":"spotify:track:2gNMXJDKRmKWuevBGjN8wo","classification":"hip hop & rap"}
+{"song":"Aur Ho - Mohit Chauhan","uri":"spotify:track:3n5KN8FDe1sFC0O9V5ZBha","classification":"hindi music"}
+{"song":"Jo Bhi Main - Mohit Chauhan","uri":"spotify:track:2MmAYegcUty1DmG0Gw7AMh","classification":"hindi music"}
+{"song":"Policeman - I'm Not A Band","uri":"spotify:track:2X7vZET0ggfsZnps2rtGlP","classification":"electronic indie & chill"}
+{"song":"I Killed Captain Cook - Unknown Mortal Orchestra","uri":"spotify:track:4LByPsKgsbi0unxW04rg6L","classification":"classic & contemporary rock"}
+{"song":"Must Be a Dream - Tempesst","uri":"spotify:track:2eYioW6oELrn623Sm2c8Dm","classification":"folk & acoustic"}
+{"song":"Mirage - Orion Sun","uri":"spotify:track:1w327AHTCoChRIkJUprAnV","classification":"electronic indie & chill"}
+{"song":"The Rumbling (TV Size) - SiM","uri":"spotify:track:0KCSJzsQVxkloxoT7dyrqV","classification":"classic & contemporary rock"}
+{"song":"Mr Schwartz - Arctic Monkeys","uri":"spotify:track:5fClRRa7P9nPIpstj50veV","classification":"classic & contemporary rock"}
+{"song":"Low Life (2018) - The Reytons","uri":"spotify:track:5MeEgXbnjUDHjfrCTV7wcN","classification":"classic & contemporary rock"}
+{"song":"There’d Better Be A Mirrorball - Arctic Monkeys","uri":"spotify:track:1zx6GSqLYI2ynzAHnPRKBR","classification":"classic & contemporary rock"}
+{"song":"Lucy - Still Woozy","uri":"spotify:track:5RxpYHVbGJPOvSEATQyg9P","classification":"electronic indie & chill"}
+{"song":"Goodie Bag - Still Woozy","uri":"spotify:track:4vHNeBWDQpVCmGbaccrRzi","classification":"electronic indie & chill"}
+{"song":"Woody - I'm Not A Band","uri":"spotify:track:2ncisH4VEe9ENXeYcXNEuO","classification":"folk & acoustic"}
+{"song":"Musta Been a Ghost - Próxima Parada","uri":"spotify:track:0AZTpwagcDe4nH0mPcnYhS","classification":"folk & acoustic"}
+{"song":"The Paris Swing Box - Parov Stelar","uri":"spotify:track:6HMRHtgZDUDaeMwjiXvtey","classification":"electronic dance"}
+{"song":"The World's First Ever Monster Truck Front Flip - Arctic Monkeys","uri":"spotify:track:1JdArJ9NKCF9TQASGQgszg","classification":"classic & contemporary rock"}
+{"song":"Something - Phyllis Dillon","uri":"spotify:track:1qJPvF8DDsksTyJnTudNVb","classification":"classic & contemporary rock"}
+{"song":"After Hours - The Velvet Underground","uri":"spotify:track:6cA1usDL8nTHeSgFewQat3","classification":"classic & contemporary rock"}
+{"song":"Do I Ever Cross Your Mind - Chet Atkins and Dolly Parton","uri":"spotify:track:31xqbaSu7ozgcK8desDuMK","classification":"folk & acoustic"}
+{"song":"The Lovely Linda - Remastered 2011 - Paul McCartney","uri":"spotify:track:0Ca2mDERpTFmnttcSt9UcR","classification":"classic & contemporary rock"}
+{"song":"Misty Roses - Tim Hardin","uri":"spotify:track:2sVvjrpL3NE9obX1hnYCiC","classification":"classic & contemporary rock"}
+{"song":"Stop Your Crying - Ted Hawkins","uri":"spotify:track:0Rp69tTthlnawYyYkh0HjD","classification":"classic & contemporary rock"}
+{"song": "Heart Of The Country - 2012 Remaster - Paul McCartney","uri":"spotify:track:5ZAfhAtEpgScJLzx7hHfLI","classification":"classic & contemporary rock"}
+{"song":"Don't Go To Strangers - J.J. Cale","uri":"spotify:track:5qZKuuKGngifO5psg19XdO","classification":"classic & contemporary rock"}
+{"song":"Ourson - Camel Power Club","uri":"spotify:track:345EckILl3LKsXCdpjWFUb","classification":"electronic indie & chill"}
+{"song":"Tainted Love - Soft Cell","uri":"spotify:track:58E1XVmZTODC67YNjneuXM","classification":"classic & contemporary rock"}
+{"song":"Spinning Away - Brian Eno","uri":"spotify:track:0EZ4GxnjKkB5Q0X5MhMNEf","classification":"classic & contemporary rock"}
+{"song":"hooligan - Baby Keem","uri":"spotify:track:3diZz7nVRbyuvAXSW7hzI7","classification":"hip hop & rap"}
+{"song":"cocoa (with Don Toliver) - Baby Keem","uri":"spotify:track:1YYSGVMyHKhVi1ef46zNB9","classification":"hip hop & rap"}
+{"song":"Laika - Camel Power Club","uri":"spotify:track:6jRDoJ8srOkUjvn3y7oHko","classification":"electronic indie & chill"}
+{"song":"بالسلامة - Assala Nasri","uri":"spotify:track:3phtTw9npaisBH94jFUmN2","classification":"hindi music"}
+{"song":"كفوكيم - Assala Nasri","uri":"spotify:track:28GJbLvCaclJcNs71iPTsZ","classification":"hindi music"}
+{"song":"فرحه وبس - Assala Nasri","uri":"spotify:track:7CGr9ALXu3lIUmoTwUqeOF","classification":"hindi music"}
+{"song":"Africa Linda - Odd1 Edit - Gabriele Poso","uri":"spotify:track:1HMKrlbNvAYu9JDLoSSKCy","classification":"world music"}
+{"song":"Above The Clouds Of Pompeii - Bear's Den","uri":"spotify:track:723paR6LrVISFCXFPf5z57","classification":"folk & acoustic"}
+{"song":"Agape - Bear's Den","uri":"spotify:track:0u3rkZ1Z5f1JIPHlLUX2Mi","classification":"folk & acoustic"}
+{"song":"Always Like This - andhim Remix - HVOB","uri":"spotify:track:7FYefykcgb1nv0gGLqUzZs","classification":"electronic indie & chill"}
+{"song":"Cloud - Gruuve","uri":"spotify:track:5MYd6MqVHqmTeWiN6vuqyM","classification":"electronic indie & chill"}
+{"song":"One Sound - Zepherin Saint","uri":"spotify:track:1Se5mBjsDwlvnT8Zze1a8I","classification":"electronic indie & chill"}
+{"song":"Bailar - The Angels","uri":"spotify:track:2IPBJ0zR2hmpEgsGPseSfj","classification":"electronic dance"}
+{"song":"Going Out - Loma","uri":"spotify:track:1Fb4bA8ZHQdEM5XKncwnF8","classification":"folk & acoustic"}
+{"song":"Veteran's Day - Cut Worms","uri":"spotify:track:6xJvhnJqNYoP9GAR3GwkF2","classification":"folk & acoustic"}
+{"song":"Bli Shekel Bakisim - Shaked Komemy","uri":"spotify:track:5xJRIm0T3IgYTDb4ATlkYk","classification":"world music"}
+{"song":"Alabina - Original 1996 - Alabina","uri":"spotify:track:4c9PMOg5YtNzU7o8CYTOmb","classification":"world music"}
+{"song":"כשאני איתך אני כמו דג - Teapacks","uri":"spotify:track:3Vr4Ou5GHAF8wXrNYJoe4k","classification":"world music"}
+{"song":"money machine - 100 gecs","uri":"spotify:track:61bwFjzXGG1x2aZsANdLyl","classification":"electronic indie & chill"}
+{"song":"Doritos & Fritos - 100 gecs","uri":"spotify:track:2WzWwYoxWIqyjzIaazsqYV","classification":"electronic indie & chill"}
+{"song":"Torero - Machito Orchestra","uri":"spotify:track:5w19B3pWtsvaZk6N5hexjG","classification":"world music"}
+{"song":"Only a Drink - Whilk & Misky","uri":"spotify:track:2WBMJIx9bhggvxniX2HwmJ","classification":"electronic indie & chill"}
+{"song":"Human Shape - Mindchatter","uri":"spotify:track:6bUchdGcZj2k1iLjTHm6kR","classification":"electronic indie & chill"}
+{"song":"Day In, Day Out - JR JR","uri":"spotify:track:205NpR1qYjcx3M31x2daT2","classification":"classic & contemporary rock"}
+{"song":"Is There a Place I Can Go - Trudy and the Romance","uri":"spotify:track:1wR6F2NFDjBlDAYEHnAPS9","classification":"folk & acoustic"}
+{"song":"Caballo Viejo (I) - Simón Díaz","uri":"spotify:track:6JHvuAV7YXf4BLXXjZ6CBq","classification":"world music"}
+{"song":"Help on the Way / Slipknot! - 2006 Remaster - Grateful Dead","uri":"spotify:track:0fuUmeE8StvPkyeUxTKqcp","classification":"classic & contemporary rock"}
+{"song":"Cuatro Vientos - Danit","uri":"spotify:track:3Gkg9mRJXJgNpozGIs7Nrm","classification":"world music"}
+{"song":"Good Time Girl - Sofi Tukker","uri":"spotify:track:1kdL29tfKlxVKxLiXy8WuS","classification":"electronic indie & chill"}
+{"song":"Nikamma - Lifafa","uri":"spotify:track:0yrCxEoGU4cV3CGr0sc65J","classification":"hindi music"}
+{"song":"Run - Daughter","uri":"spotify:track:1FZDPBjYFzJu7h9yip9yX3","classification":"folk & acoustic"}
+{"song":"California Dreamin' - The Mamas & The Papas","uri":"spotify:track:1ZEOIhSn6BKErV59bIgn76","classification":"classic & contemporary rock"}
+{"song":"My Life - T.I BLAZE","uri":"spotify:track:0SJYLFDUX2F1IMTdXS23zI","classification":"hip hop & rap"}
+{"song":"kolomental - Victony","uri":"spotify:track:6lXOGwFzCglrPMtuysPIUo","classification":"hip hop & rap"}
+{"song":"Warning Sign - Born Jamericans","uri":"spotify:track:4GogTIJcD6LIDS1l6XKrbt","classification":"hip hop & rap"}
+{"song":"Which Side are You On? - The Almanac Singers","uri":"spotify:track:4fOkwtXTHAqAgfIBdi8CqK","classification":"folk & acoustic"}
+{"song":"Palm Trees - Ehrling","uri":"spotify:track:5vczxprsg5zJWOlR7gTxEX","classification":"electronic indie & chill"}
+{"song":"When I'm Gone - Phil Ochs","uri":"spotify:track:0yQ9vnsC7CyPMwAQ3BlWcJ","classification":"folk & acoustic"}
+{"song":"Nature Boy - Ella Fitzgerald","uri":"spotify:track:41Guegd93PvYZYwSGiiDav","classification":"jazz & piano"}
+{"song":"Althea - 2013 Remaster - Grateful Dead","uri":"spotify:track:7M7AwtGvWdMYudqx5Iuh1m","classification":"classic & contemporary rock"}
+{"song":"Alabama Getaway - 2013 Remaster - Grateful Dead","uri":"spotify:track:5WVF1Ftv5oxspRac9km99R","classification":"classic & contemporary rock"}
+{"song":"Feel like a Stranger - 2013 Remaster - Grateful Dead","uri":"spotify:track:1EnynpdO45PhqAbXpIbw4m","classification":"classic & contemporary rock"}
+{"song":"Night Terror - Laura Marling","uri":"spotify:track:5laIaz7LNoAgzanAoWxZh3","classification":"folk & acoustic"}
+{"song":"Failure - Laura Marling","uri":"spotify:track:5F2Gisx5W7QSUcfUUgrXWy","classification":"folk & acoustic"}
+{"song":"Wandering Star - Portishead","uri":"spotify:track:7h14W1uQK7sjpVI1oVTobt","classification":"electronic indie & chill"}
+{"song":"Sour Times - Portishead","uri":"spotify:track:6vTtCOimcPs5H1Jr9d0Aep","classification":"classic & contemporary rock"}
+{"song":"Mysterons - Portishead","uri":"spotify:track:2O6X9nPVVQSefg3xOQAo5u","classification":"electronic indie & chill"}
+{"song":"Bilboquet (Sirba) - Polo & Pan","uri":"spotify:track:2OqHwg8IeV5xOzh4HBTaYC","classification":"world music"}
+{"song":"Melody - Polo & Pan","uri":"spotify:track:6GIbY3GZ0FCUvls8L3UVG7","classification":"electronic indie & chill"}
+{"song":"Noah - RIOPY","uri":"spotify:track:5TDSCVFfHJqWoQkGrrB81N","classification":"jazz & piano"}
+{"song":"Luna - Alef","uri":"spotify:track:5bUayZvlP6Qw2x8TBrW8XX","classification":"world music"}
+{"song":"Ojitos Lindos - Bad Bunny","uri":"spotify:track:3k3NWokhRRkEPhCzPmV8TW","classification":"hip hop & rap"}
+{"song":"Me Porto Bonito - Bad Bunny","uri":"spotify:track:6Sq7ltF9Qa7SNFBsV5Cogx","classification":"hip hop & rap"}
+{"song":"Give Up Baby Go - Peach Pit","uri":"spotify:track:6DIMM15oo3kxnCuVypaYGy","classification":"classic & contemporary rock"}
+{"song":"Alrighty Aphrodite - Peach Pit","uri":"spotify:track:6OiRh4kttAs1YWglvTcYkB","classification":"folk & acoustic"}
+{"song":"Chehra Kya Dekhte Ho (From \"Salaami\") - Asha Bhosle","uri":"spotify:track:0CmJspKqxntfxL7wx7UzVs","classification":"hindi music"}
+{"song":"Introvert - Little Simz","uri":"spotify:track:2lbX8Jt97ou14yL9rqG58C","classification":"hip hop & rap"}
+{"song":"Just a Man - Good Morning","uri":"spotify:track:1YUv01iPxtI9VMuuQOTIax","classification":"electronic indie & chill"}
+{"song":"Pat - Good Morning","uri":"spotify:track:3nOJnsXvX2WhwCDAKKKGDj","classification":"folk & acoustic"}
+{"song":"Green Skies - Good Morning","uri":"spotify:track:4bKDZwEiwxiFXad24ZitEL","classification":"folk & acoustic"}
+{"song":"FANTAZIA - Roy Blair","uri":"spotify:track:3XetDJxSDARsex7zU9KEpM","classification":"electronic indie & chill"}
+{"song":"Super Bounce - Duckwrth","uri":"spotify:track:0bdNktKwMzf6d4V5BNK1KN","classification":"hip hop & rap"}
+{"song":"We're All Gonna Be Killed - Terrell Hines","uri":"spotify:track:0OWJgwv0SF2gJPtbjAPGub","classification":"hip hop & rap"}
+{"song":"Small Time Blues - Acoustic - Pete Droge","uri":"spotify:track:12Z8n88VTyQbEOWpBVw71c","classification":"folk & acoustic"}
+{"song":"Just the Right Song - Vansire","uri":"spotify:track:4P3mcaMeif02CSqx6MAleZ","classification":"electronic indie & chill"}
+{"song":"Always Remember Us This Way - Lady Gaga","uri":"spotify:track:2rbDhOo9Fh61Bbu23T2qCk","classification":"classic & contemporary rock"}
+{"song":"Shallow - Lady Gaga","uri":"spotify:track:2VxeLyX666F8uXCJ0dZF8B","classification":"classic & contemporary rock"}
+{"song":"Maybe It's Time - Bradley Cooper","uri":"spotify:track:6jMbPsH6lTOLs5n8Af26AG","classification":"classic & contemporary rock"}
+{"song":"Guru Brahma - Jai Uttal","uri":"spotify:track:1ynwj2UivtoCSEF0X6rjcf","classification":"world music"}
+{"song":"We Broke Free - Metronomy","uri":"spotify:track:6ntDpqWniuB5HHnW0Wk6Gn","classification":"electronic indie & chill"}
+{"song":"The Reunion - Bad Meets Evil","uri":"spotify:track:4TsDmh8jtTMdaa7UP3gxAR","classification":"hip hop & rap"}
+{"song":"Lighters - Bad Meets Evil","uri":"spotify:track:5zpDHEU12zATwLGvozxPw2","classification":"hip hop & rap"}
+{"song":"Above The Law - Bad Meets Evil","uri":"spotify:track:5oEgPvhTZ4CFjeuuLfmMsI","classification":"hip hop & rap"}
+{"song":"A Kiss - Bad Meets Evil","uri":"spotify:track:4eing5jncX5PU3Wtf8ssBc","classification":"hip hop & rap"}
+{"song":"Salted Caramel Ice Cream - Metronomy","uri":"spotify:track:13QZb2ua0JY2VJU9wG4PmQ","classification":"electronic indie & chill"}
+{"song":"Battlefield - Armin van Buuren","uri":"spotify:track:14df9jEJnmBRm8x2Svb6EC","classification":"electronic dance"}
+{"song":"Gene Kelly - Fakeer","uri":"spotify:track:0WJ0bE62fHMwVXJZ4X1DN5","classification":"hindi music"}
+{"song":"Bad Boy - Yung Bae","uri":"spotify:track:1dtTRXifeGC51adYy0902s","classification":"electronic indie & chill"}
+{"song":"Holding Your Hand - Yung Bae","uri":"spotify:track:4eFL2Pne2HkmNoflgDFUQ9","classification":"electronic indie & chill"}
+{"song":"Falling Back - Drake","uri":"spotify:track:1vbn9fEyw1IYhqgZJdu9ZB","classification":"hip hop & rap"}
+{"song":"Locco - Biscits","uri":"spotify:track:1MtswMNmlmCn0fl0xf8qB1","classification":"electronic dance"}
+{"song":"Bananza (Belly Dancer) - DJ Shaan Remix - Akon","uri":"spotify:track:4XOnM8efyB3PQanXQnwlGO","classification":"electronic dance"}
+{"song":"Days Go By - Men I Trust","uri":"spotify:track:1SyJuJfFyoAxuZMaTbwHJW","classification":"electronic indie & chill"}
+{"song":"Il neige - Voyou","uri":"spotify:track:0WzODGZGjAcKaEvTcK947u","classification":"french stuff"}
+{"song":"Voodoo? - L'Impératrice","uri":"spotify:track:4Ni2AUpC7d4M7nFMa3oquY","classification":"electronic indie & chill"}
+{"song":"Mr. Tillman - Father John Misty","uri":"spotify:track:0C2vuwLuunPNCJpyAG3kzh","classification":"classic & contemporary rock"}
+{"song":"Ferrari - James Hype","uri":"spotify:track:4zN21mbAuaD0WqtmaTZZeP","classification":"electronic dance"}
+{"song":"Baby - J Dilla","uri":"spotify:track:0wotldYXx2K5HH0CwhzYrX","classification":"hip hop & rap"}
+{"song":"Big Jet Plane (feat. Dabin) - Daniela Andrade","uri":"spotify:track:5pFejrJKLanmTw41QMHX2M","classification":"electronic indie & chill"}
+{"song":"Smells Like Teen Spirit - 2015 Remaster - Tori Amos","uri":"spotify:track:1kWqRB6PHLM9QTfaXuHpIV","classification":"classic & contemporary rock"}
+{"song":"Fine, Great - Modern Baseball","uri":"spotify:track:7hqboBA08HiOvLPd3Ahjod","classification":"folk & acoustic"}
+{"song":"Merry-Go-Round of Life - from 'Howl's Moving Castle' - Joe Hisaishi","uri":"spotify:track:39uLYYZytVUwcjgeYLI409","classification":"world music"}
+{"song":"San Francisco Bae - Daehan","uri":"spotify:track:5IsrcGfazh37Q2HxVllMR3","classification":"electronic indie & chill"}
+{"song":"Rimjhim Gire Sawan - Duet - Kishore Kumar","uri":"spotify:track:4Twn7Z9eg4tmhFzLlmZsSE","classification":"hindi music"}
+{"song":"Hai Apna Dil To Aawara - Happy - Hemant Kumar","uri":"spotify:track:0p7EstNUg5VYyD8jxs1Na7","classification":"hindi music"}
+{"song":"sriracha - bbno$","uri":"spotify:track:27uqXX6GcgnvzE2QzNaj4z","classification":"hip hop & rap"}
+{"song":"brainless - bbno$","uri":"spotify:track:4jVwbqe8moOtawNMsgRQBD","classification":"hip hop & rap"}
+{"song":"Let's Dance - Americano Social Club","uri":"spotify:track:3bFVq4MBiLn0lWwNik7vei","classification":"jazz & piano"}
+{"song":"Les mots bleus - Johan Papaconstantino","uri":"spotify:track:4ffoWIfe9UWfyuJT5I0I7L","classification":"french stuff"}
+{"song":"edamame (feat. Rich Brian) - bbno$","uri":"spotify:track:5rW7qTn83sCKtqBoneJs63","classification":"hip hop & rap"}
+{"song":"mathematics - bbno$","uri":"spotify:track:14wlnbFSJj5VTK5c1cDQMQ","classification":"hip hop & rap"}
+{"song":"First Class - Jack Harlow","uri":"spotify:track:0wHFktze2PHC5jDt3B17DC","classification":"hip hop & rap"}
+{"song":"Pillow Talking (feat. Brain) - Lil Dicky","uri":"spotify:track:3ji3RdsWWyuuZyehLmYj0b","classification":"hip hop & rap"}
+{"song":"Face to Face - Daft Punk","uri":"spotify:track:7v9Q0dAb9t7h8gJOkcJHay","classification":"electronic dance"}
+{"song":"I Feel It Coming - The Weeknd","uri":"spotify:track:5GXAXm5YOmYT0kL5jHvYBt","classification":"electronic indie & chill"}
+{"song":"Digital Love - Daft Punk","uri":"spotify:track:2VEZx7NWsZ1D0eJ4uv5Fym","classification":"electronic indie & chill"}
+{"song":"Lut Gaye - Jubin Nautiyal","uri":"spotify:track:2ufLEVbzvEcJ3subW8jBUp","classification":"hindi music"}
+{"song":"Duniya Mein Logon Ko - Asha Bhosle","uri":"spotify:track:0fcRo9r4cFr93zuaIvuCPx","classification":"hindi music"}
+{"song":"O Meri Mehbooba Mehbooba Mehbooba - From \"Dharam Veer\" - Mohammed Rafi","uri":"spotify:track:5CpVg60jHAmh8CLN53yrap","classification":"hindi music"}
+{"song":"Panchhi Banoon Udti Phiroon - Lata Mangeshkar","uri":"spotify:track:6I74QpdGxj1i1oTvEC5PXx","classification":"hindi music"}
+{"song":"Aao Twist Karen - Manna Dey","uri":"spotify:track:3GgehofiOSBorNz6CT1bID","classification":"hindi music"}
+{"song":"Like Someone In Love - Bruno Major","uri":"spotify:track:0PwaDQfnz4J8WF8221gv7n","classification":"jazz & piano"}
+{"song":"Daddy's Home - Bohemia","uri":"spotify:track:3g03vSgPZHwgFgYubdlCXO","classification":"hip hop & rap"}
+{"song":"Jardim dos Deuses - Joyce Moreno","uri":"spotify:track:1FUHg56IIoOc3CrI5bV7yz","classification":"world music"}
+{"song":"Hey, Who Really Cares - Linda Perhacs","uri":"spotify:track:1EY7zEIE32twYy7zL05WG2","classification":"folk & acoustic"}
+{"song":"I'd Have You Anytime - Remastered 2014 - George Harrison","uri":"spotify:track:0wZuvGn7nZbKoyKOlwZQMF","classification":"classic & contemporary rock"}
+{"song":"Asc. Scorpio - Oracle Sisters","uri":"spotify:track:13zkVsNIyXsagdlbg7ulWO","classification":"folk & acoustic"}
+{"song":"te vas // don’t go - boy pablo","uri":"spotify:track:4p6KuRfYwvP7pX3MQ0DuUF","classification":"electronic indie & chill"}
+{"song":"Again (feat. Ghostly Kisses) - Men I Trust","uri":"spotify:track:74SiMxFuGC4SYuIGRBIIcZ","classification":"electronic indie & chill"}
+{"song":"Warned You - Good Morning","uri":"spotify:track:3GahMRXI3rL2JVeSLZBRnF","classification":"electronic indie & chill"}
+{"song":"Oh Dove - Men I Trust","uri":"spotify:track:16vs1gBen7uqJPWkAnbMHb","classification":"electronic indie & chill"}
+{"song":"Shut up My Moms Calling - Hotel Ugly","uri":"spotify:track:3hxIUxnT27p5WcmjGUXNwx","classification":"hip hop & rap"}
+{"song":"Young Love (feat. Laura Marling) - Mystery Jets","uri":"spotify:track:5Bp3OmGILMam5w6KnafdKY","classification":"classic & contemporary rock"}
+{"song":"Modulation - Nill","uri":"spotify:track:5IjfFv5gehGEuht2IFDbcE","classification":"electronic indie & chill"}
+{"song":"Champagne Shots - Sainté","uri":"spotify:track:7dbyaRWWFvB9UG2vcwTd3J","classification":"hip hop & rap"}
+{"song":"Stan - Eminem","uri":"spotify:track:3UmaczJpikHgJFyBTAJVoz","classification":"hip hop & rap"}
+{"song":"Wordless Chorus - My Morning Jacket","uri":"spotify:track:6xAa0kGkTLU22ZyoHOCHgi","classification":"classic & contemporary rock"}
+{"song":"i <3 u - boy pablo","uri":"spotify:track:5EcGSkkNBMAWOePvLgKde1","classification":"electronic indie & chill"}
+{"song":"Break Down - Original Mix - Emmanuel Miro","uri":"spotify:track:13XS3QvQ3zAfF5GJPz7id5","classification":"electronic dance"}
+{"song":"Error 404 - L'Impératrice","uri":"spotify:track:2rdzxFb0MGJeZXO0ymVDD7","classification":"french stuff"}
+{"song":"La nuit américaine - Lescop","uri":"spotify:track:1jVjd7vcOYbrdsRAospfVr","classification":"french stuff"}
+{"song":"Crowd Chant - Joe Satriani","uri":"spotify:track:0bz67HYKfiuUj1xhsK5ofT","classification":"classic & contemporary rock"}
+{"song":"Tide - L00Z","uri":"spotify:track:0BbKdNyM3NJrlRMKr4hkI0","classification":"electronic indie & chill"}
+{"song":"Cookies - L00Z","uri":"spotify:track:0RjJnfy627y6QQL6EAYXRR","classification":"electronic indie & chill"}
+{"song":"San Francisco (Be Sure to Wear Flowers in Your Hair) - Single Version - Scott McKenzie","uri":"spotify:track:4HpaXUMqrz1cFaOeEizumw","classification":"classic & contemporary rock"}
+{"song":"White Gloves - Khruangbin","uri":"spotify:track:4AKUOaCRcoKTFnVI9LtsrN","classification":"world music"}
+{"song":"Year of Love - Jenny Hval","uri":"spotify:track:2xMf6kbsGhfmrzLxC5HRLw","classification":"electronic indie & chill"}
+{"song":"The Battle of Evermore - Remaster - Led Zeppelin","uri":"spotify:track:6KCjY5kHvgWaWcAV6BBzxO","classification":"classic & contemporary rock"}
+{"song":"Rainy Day Women #12 & 35 - Bob Dylan","uri":"spotify:track:7BkAlVpGwXXl3sYNn5OoJ7","classification":"classic & contemporary rock"}
+{"song":"Layla - Live - Eric Clapton","uri":"spotify:track:0ulTkL1C3xWMGS5VAaSQV9","classification":"classic & contemporary rock"}
+{"song":"Piano Man - Billy Joel","uri":"spotify:track:70C4NyhjD5OZUMzvWZ3njJ","classification":"jazz & piano"}
+{"song":"ELEMENT. - Kendrick Lamar","uri":"spotify:track:1EaKU4dMbesXXd3BrLCtYG","classification":"hip hop & rap"}
+{"song":"Free Bird - Lynyrd Skynyrd","uri":"spotify:track:5EWPGh7jbTNO2wakv8LjUI","classification":"classic & contemporary rock"}
+{"song":"Pho - Mr GISCARD","uri":"spotify:track:60FAXgsRDr9OAy4XFAUCKR","classification":"french stuff"}
+{"song":"scapegoats - Baby Keem","uri":"spotify:track:0Zt9ySO9K4BrQW7cfFgKFR","classification":"hip hop & rap"}
+{"song":"Pepas - Farruko","uri":"spotify:track:5fwSHlTEWpluwOM0Sxnh5k","classification":"hip hop & rap"}
+{"song":"Taliat - Mdou Moctar","uri":"spotify:track:6GarrtA6cncYaHlME3jZlM","classification":"world music"}
+{"song":"Wake Up, Get Down - Cupidon","uri":"spotify:track:1gEB5InUzgNLHPv8H34v54","classification":"electronic indie & chill"}
+{"song":"Move Like This - Ric Wilson","uri":"spotify:track:3Jw0dL0zh6zAYHpXa0sbrA","classification":"hip hop & rap"}
+{"song":"Never Gonna Give You Up - Rick Astley","uri":"spotify:track:4cOdK2wGLETKBW3PvgPWqT","classification":"classic & contemporary rock"}
+{"song":"WhereYouGonnaGo? - Jitwam","uri":"spotify:track:1ELW3mroLCVV20CIYnuCQn","classification":"electronic indie & chill"}
+{"song":"Mozambique - Bob Dylan","uri":"spotify:track:1gpQMd0R3blMSn8vhXU0Uu","classification":"classic & contemporary rock"}
+{"song":"Dancing On My Own - Radio Edit - Robyn","uri":"spotify:track:7g13jf3zqlP5S68Voo5v9m","classification":"electronic dance"}
+{"song":"Call Your Girlfriend - Robyn","uri":"spotify:track:2sCoROOlNQyFpRQEe6A5lv","classification":"electronic indie & chill"}
+{"song":"Dancing On My Own - Robyn","uri":"spotify:track:3Rc2ajBMInxeNGVkMPC92Y","classification":"electronic indie & chill"}
+{"song":"pink panties - Baby Keem","uri":"spotify:track:3wYMHB6pS2miB3Bn9mD36w","classification":"hip hop & rap"}
+{"song":"LUMBERJACK - Tyler, The Creator","uri":"spotify:track:0BiK5BbYNFLb88CCOxBFJe","classification":"hip hop & rap"}
+{"song":"Endless Strive (feat. Thomas) - Men I Trust","uri":"spotify:track:1Ls8KCGK2qGxPnhICwqAbc","classification":"electronic indie & chill"}
+{"song":"Life Itself - Glass Animals","uri":"spotify:track:32zkKx35Et6A515oZKxDkD","classification":"folk & acoustic"}
+{"song":"Quiet (feat. Odile) - Men I Trust","uri":"spotify:track:2p132CMDRBL3m7M52NV2o5","classification":"electronic indie & chill"}
+{"song":"Break for Lovers (feat. Helena) - Men I Trust","uri":"spotify:track:1mXE3amJxqLBPBUBYQi55e","classification":"electronic indie & chill"}
+{"song":"Out in Myself (feat. Emmanuelle) - Men I Trust","uri":"spotify:track:3zGyOfZTXJVCq492Q9bnEO","classification":"electronic indie & chill"}
+{"song":"Morse Code (feat. Odile & Geoffroy) - Men I Trust","uri":"spotify:track:6Hg4shhNiovAnaXle7IS0f","classification":"electronic indie & chill"}
+{"song":"ORANGE SODA - Baby Keem","uri":"spotify:track:5FkoSXiJPKTNyYgALRJFhD","classification":"hip hop & rap"}
+{"song":"lost souls (with Brent Faiyaz) - Baby Keem","uri":"spotify:track:02rdXe0KhMe8p6ZHzYtuw0","classification":"hip hop & rap"}
+{"song":"family ties (with Kendrick Lamar) - Baby Keem","uri":"spotify:track:3QFInJAm9eyaho5vBzxInN","classification":"hip hop & rap"}
+{"song":"Elghazala Ray2a (feat. Mohamed Osama) - Karim Mahmoud Abdelaziz","uri":"spotify:track:4xAYDw7NVSKkvMIE9vFTVu","classification":"hindi music"}
+{"song":"Tree Among Shrubs - Men I Trust","uri":"spotify:track:4JYJU761kWJEK91hyug33F","classification":"electronic indie & chill"}
+{"song":"D'yer Mak'er - Remaster - Led Zeppelin","uri":"spotify:track:5uUhS7XDkyycNa5FaNfPGT","classification":"classic & contemporary rock"}
+{"song":"Deathcab - Ditty","uri":"spotify:track:4DsZFbvLhBxz5rQZiozfDn","classification":"folk & acoustic"}
+{"song":"What You Are - Tāl","uri":"spotify:track:5vAuFUS8j06YkjIeC9sxyP","classification":"world music"}
+{"song":"Sadness - Ditty","uri":"spotify:track:1htHzu7EG5qoSnBRZhJHHQ","classification":"folk & acoustic"}
+{"song":"Again - Tāl","uri":"spotify:track:4Vx5XqYU7IpX3iJZd7WoOJ","classification":"world music"}
+{"song":"LAX - Vulfpeck","uri":"spotify:track:1o0nAjgZwMDK9TI4TTUSNn","classification":"classic & contemporary rock"}
+{"song":"Wait for the Moment - Vulfpeck","uri":"spotify:track:48wH8bAxvBJO2l14GmNLz7","classification":"jazz & piano"}
+{"song":"It Gets Better - Rex Orange County","uri":"spotify:track:6lxJDscGCALBzA0BdhGCiL","classification":"folk & acoustic"}
+{"song":"Love - terrence?","uri":"spotify:track:15JVwcRiFF1JDqpFXWW2GP","classification":"hip hop & rap"}
+{"song":"Release The Spring - Scarnella","uri":"spotify:track:1x1u9RNJU5Oisn6xA9pMEI","classification":"folk & acoustic"}
+{"song":"A Millennium Fever Ballad - Scarnella","uri":"spotify:track:7ErM3lXJr6TbEaxBekX9ND","classification":"classic & contemporary rock"}
+{"song":"Tailwhip (Album V) - Men I Trust","uri":"spotify:track:3rRAR3YHRFShjEaHP0o9Xi","classification":"electronic indie & chill"}
+{"song":"I Don't Do Drugs (feat. Ariana Grande) - Doja Cat","uri":"spotify:track:0FFsgUoFibYISzMxuGS61W","classification":"hip hop & rap"}
+{"song":"The Most Useless Thing - Scarnella","uri":"spotify:track:6vnnUWFBR7IvCfGzM49E2a","classification":"classic & contemporary rock"}
+{"song":"Norton Commander (Album V) - Men I Trust","uri":"spotify:track:0DltZY7z8YvuDBSAbsIgPc","classification":"electronic indie & chill"}
+{"song":"Numb (Album V) - Men I Trust","uri":"spotify:track:3nb2awsoNpohW96canbmAr","classification":"electronic indie & chill"}
+{"song":"In Motion - Color Theory","uri":"spotify:track:30VYUaujL7lzAgjbVDHvYG","classification":"electronic indie & chill"}
+{"song":"Words - Low","uri":"spotify:track:01OXa5tVuCssU6j8TY7kxr","classification":"classic & contemporary rock"}
+{"song":"Down By The River - Low","uri":"spotify:track:1x63U5U00cfzifoQAilHxC","classification":"folk & acoustic"}
+{"song":"Still Blooming (feat. Lila Iké & IzyBeats) - Protoje","uri":"spotify:track:3CUfHkfDsiAPcTtltvAh0G","classification":"world music"}
+{"song":"You're The One I Love (with Rvssian) - Shenseea","uri":"spotify:track:6x4Lxr3upD3MQsvxi6gePp","classification":"hip hop & rap"}
+{"song":"Jungle - Jada Kingdom","uri":"spotify:track:0ez6JelKTHlTaZlJEufmfd","classification":"hip hop & rap"}
+{"song":"Jolene - Kes","uri":"spotify:track:6B1si3DuUOmVaWQ53GijZh","classification":"classic & contemporary rock"}
+{"song":"Pull Up - Koffee","uri":"spotify:track:7aBRoWtp9jsZFxwml1LfeG","classification":"hip hop & rap"}
+{"song":"All Of The Lights - Kanye West","uri":"spotify:track:22L7bfCiAkJo5xGSQgmiIO","classification":"hip hop & rap"}
+{"song":"SWISHES - Micah","uri":"spotify:track:3acTCphocu5BhqLO3RQLnt","classification":"electronic indie & chill"}
+{"song":"DRILL SZN - Micah","uri":"spotify:track:4CC81X4Ntf36dQOqWXNGKW","classification":"hip hop & rap"}
+{"song":"cascading in monochrome - Micah","uri":"spotify:track:4QA4Cy0hE5KVvPDawMdPuz","classification":"electronic indie & chill"}
+{"song":"AMAZING - Rex Orange County","uri":"spotify:track:6FtIK0IkmG33lKbc1pyAlZ","classification":"folk & acoustic"}
+{"song":"Freeze Tag (feat. Phoelix) - Terrace Martin","uri":"spotify:track:47v4uUtj5AukJmCbMq4Kry","classification":"hip hop & rap"}
+{"song":"Iktara - Amit Trivedi","uri":"spotify:track:3jtKSUiVDowKNBqVQbWaig","classification":"hindi music"}
+{"song":"SUGAR - BROCKHAMPTON","uri":"spotify:track:6U0FIYXCQ3TGrk4tFpLrEA","classification":"hip hop & rap"}
+{"song":"Ordinary Pleasure - Toro y Moi","uri":"spotify:track:1r1BFALfShEfyv1aEs7MRW","classification":"electronic indie & chill"}
+{"song":"Pona Povura (From \"Mahaan\") - Santhosh Narayanan","uri":"spotify:track:2TBZJOgFXSi9EzOFxngpvv","classification":"hindi music"}
+{"song":"Comb My Hair - Pretty Boy Aaron","uri":"spotify:track:6bAjvvI6Oo1MARyB2zDHPo","classification":"electronic indie & chill"}
+{"song":"U&ME - alt-J","uri":"spotify:track:3i4ColsuZEvjeLz63m0jPt","classification":"electronic indie & chill"}
+{"song":"What He Wrote - Laura Marling","uri":"spotify:track:2CTOa3CEBts3p1NyTVLTXU","classification":"folk & acoustic"}
+{"song":"Saaki - Sukhwinder Singh","uri":"spotify:track:3zEkqnyPzhHBuHCeoWLYjQ","classification":"hindi music"}
+{"song":"Arrows & Eyes - Noriko Miyamoto","uri":"spotify:track:6NbmEkYWUKe0SkO4cq4sLY","classification":"jazz & piano"}
+{"song":"Hikari No Ito Kin No Ito - Mishio Ogawa","uri":"spotify:track:4G4c8COVfOwYv8fMa3USFn","classification":"world music"}
+{"song":"Crown - Ila Amiri","uri":"spotify:track:3Zc2SYzbLEAeKnDsGXmOit","classification":"world music"}
+{"song":"I'm Gonna Live Till I Die - Recorded Live at The Triple Door, Seattle, June 23, 2009 - Rodríguez","uri":"spotify:track:1fa9thKzMq5TmeUs1OJaRO","classification":"classic & contemporary rock"}
+{"song":"Apun Jaise Tapori - Munnabhai MBBS / Soundtrack Version - Vinod Rathod","uri":"spotify:track:1mnhvYCNEayxowXR5HO0XA","classification":"hindi music"}
+{"song":"M Bole To - Munnabhai MBBS / Soundtrack Version - Vinod Rathod","uri":"spotify:track:1VT1c7VYJw0ulretgJRcWf","classification":"hindi music"}
+{"song":"Not Into You - Brooksie","uri":"spotify:track:1eFYbcVZBTKcE0iFIYU5qk","classification":"electronic indie & chill"}
+{"song":"After House - C.R.O","uri":"spotify:track:37b2LyzvKZduFJd8GmJhJW","classification":"electronic indie & chill"}
+{"song":"Bazooka - Sleepy Chows","uri":"spotify:track:3ufID66NGukmmp6mEOGq3I","classification":"electronic indie & chill"}
+{"song":"Kabhi Kabhi Aditi - Rashid Ali","uri":"spotify:track:3APdIdF8H0jsxSuGOqXedS","classification":"hindi music"}
+{"song":"Forget It - Rodríguez","uri":"spotify:track:3hgVJGSwCFY8M84FavQwdD","classification":"world music"}
+{"song":"The Unforgiven - Cage The Elephant","uri":"spotify:track:0Iixb2jL2s6BMqHtwnhG8H","classification":"classic & contemporary rock"}
+{"song":"She - Tyler, The Creator","uri":"spotify:track:0SA0mMXWh23raZ6xzOCU2V","classification":"hip hop & rap"}
+{"song":"Blue Suede Shoes - Elvis Presley","uri":"spotify:track:47gmoUrZV3w20JAnQOZMcO","classification":"classic & contemporary rock"}
+{"song":"Long Beach - Kota the Friend","uri":"spotify:track:6tqIes4TjudsjfIpK4P2Jh","classification":"hip hop & rap"}
+{"song":"You Are My Person - Kyle Andrews","uri":"spotify:track:6YAIsGT6u91bWeG64BGasX","classification":"folk & acoustic"}
+{"song":"Maine Coast - Panther Hollow","uri":"spotify:track:0n3AE7ThAi63rUN3MxUjEi","classification":"folk & acoustic"}
+{"song":"Jamie - Panther Hollow","uri":"spotify:track:2nsgik6NsaoYDcN97YAKYi","classification":"electronic indie & chill"}
+{"song":"BUTTERFLY EFFECT - Travis Scott","uri":"spotify:track:2cYqizR4lgvp4Qu6IQ3qGN","classification":"hip hop & rap"}
+{"song":"Eazy - The Game","uri":"spotify:track:6Ab81Bs9fcOwaTYuBsUUpI","classification":"hip hop & rap"}
+{"song":"Up - Cardi B","uri":"spotify:track:1XXimziG1uhM0eDNCZCrUl","classification":"hip hop & rap"}
+{"song":"My Type (feat. City Girls & Jhené Aiko) - Remix - Saweetie","uri":"spotify:track:5LTdRSQOg63EazLbKZbWn2","classification":"hip hop & rap"}
+{"song":"Tunnel - Polo & Pan","uri":"spotify:track:4at0npP4QkdIUulFZIsYft","classification":"electronic indie & chill"}
+{"song":"Feel Good - Polo & Pan","uri":"spotify:track:2UkX27EXS59qpKUXrMTZlK","classification":"electronic indie & chill"}
+{"song":"Ambarsariya - Sona Mohapatra","uri":"spotify:track:4qRcjFkFqSpLBzcbLDt7HL","classification":"hindi music"}
+{"song":"Anchor - Novo Amor","uri":"spotify:track:7qH9Z4dJEN0l9bidizW7fq","classification":"folk & acoustic"}
+{"song":"Colour Of The Trap - Miles Kane","uri":"spotify:track:2cTTiB13RbzLQxH2BUJbvK","classification":"classic & contemporary rock"}
+{"song":"STAY (with Justin Bieber) - The Kid LAROI","uri":"spotify:track:5HCyWlXZPP0y6Gqq8TgA20","classification":"hip hop & rap"}
+{"song":"Go Now - Kota the Friend","uri":"spotify:track:7qatUSGcXf0eXOaZLJkZpj","classification":"hip hop & rap"}
+{"song":"Wolves - Kota the Friend","uri":"spotify:track:49nkBg3OJtp6m6TQPmG1Qw","classification":"hip hop & rap"}
+{"song":"bebè - Gibs","uri":"spotify:track:3dAr9f0XwGiEG55HCwr2NC","classification":"electronic indie & chill"}
+{"song":"Beauty & Essex (feat. Daniel Caesar & Unknown Mortal Orchestra) - Free Nationals","uri":"spotify:track:0cciBj4236w1xByzZvn92D","classification":"hip hop & rap"}
+{"song":"Ashes to Ashes - Jenny Hval","uri":"spotify:track:1geq0EI4AJRDQIkJZbkAC1","classification":"electronic indie & chill"}
+{"song":"Accident - Jenny Hval","uri":"spotify:track:5pRoeMMxE6HEhh8IWmeEiO","classification":"electronic indie & chill"}
+{"song":"Seahorse - Horsey","uri":"spotify:track:748hplO7UJ7nRaUOkZE6EQ","classification":"folk & acoustic"}
+{"song":"Transition East - Angel Bat Dawid","uri":"spotify:track:0XeLymjDSVUT6hh0WLNakj","classification":"jazz & piano"}
+{"song":"Shiny - Floatie","uri":"spotify:track:7MTWdKpOeHOmS4XeC6uAJc","classification":"electronic indie & chill"}
+{"song":"Menneskekollektivet - Lost Girls","uri":"spotify:track:6L7XZwpkylNVaqMldwWUxI","classification":"electronic indie & chill"}
+{"song":"Roz - Ritviz","uri":"spotify:track:1rDQJd8kzwBRXeoTtojkQn","classification":"electronic indie & chill"}
+{"song":"The Walk - Jimmy McCracklin","uri":"spotify:track:1Y7PR1ThUf9Q5rPOnNAeWK","classification":"classic & contemporary rock"}
+{"song":"Real Life - Lost Girls","uri":"spotify:track:7JQS0KugXwJEJrN0EX7HGf","classification":"electronic indie & chill"}
+{"song":"Debe - Nicco Tyson","uri":"spotify:track:6ndXhDVk7qEMp8w6Yxd8bq","classification":"electronic indie & chill"}
+{"song":"Everybody’s Gotta Live - Love","uri":"spotify:track:1Og2Qi5XwYdr0YI6rn79Zb","classification":"classic & contemporary rock"}
+{"song":"Tu Jaane Na - Atif Aslam","uri":"spotify:track:4iFPsNzNV7V9KJgcOX7TEO","classification":"hindi music"}
+{"song":"Deep Sleep - Agency666","uri":"spotify:track:4sbFMfLBWQGuPf2s7TnZzT","classification":"electronic indie & chill"}
+{"song":"Lover`s Revenge - Agency666","uri":"spotify:track:5fYnAzBgs8tSqacgkDErrX","classification":"electronic indie & chill"}
+{"song":"Stairway to Heaven - Remaster - Led Zeppelin","uri":"spotify:track:5CQ30WqJwcep0pYcV4AMNc","classification":"classic & contemporary rock"}
+{"song":"Down - Agency666","uri":"spotify:track:1RFdc1kTxDMVP9HuNZrUNC","classification":"electronic indie & chill"}
+{"song":"Mitwa - Shankar-Ehsaan-Loy","uri":"spotify:track:4BTPzhEsyW3blWcxcuhLM0","classification":"hindi music"}
+{"song":"Baaraat - Ritviz","uri":"spotify:track:0YLSjVxSb5FT1Bo8Tnxr8j","classification":"hindi music"}
+{"song":"Disco Yes - Tom Misch","uri":"spotify:track:61Ivix5DTnDPVjp1dgLyov","classification":"electronic indie & chill"}
+{"song":"MONTERO (Call Me By Your Name) - Lil Nas X","uri":"spotify:track:1SC5rEoYDGUK4NfG82494W","classification":"hip hop & rap"}
+{"song":"It Runs Through Me - Tom Misch","uri":"spotify:track:02CygBCQOIyEuhNZqHHcNx","classification":"electronic indie & chill"}
+{"song":"Echoes - Pink Floyd","uri":"spotify:track:7kriFJLY2KOhw5en9iI2jb","classification":"classic & contemporary rock"}
+{"song":"September - Earth, Wind & Fire","uri":"spotify:track:2grjqo0Frpf2okIBiifQKs","classification":"classic & contemporary rock"}
+{"song":"I Like It - Cardi B","uri":"spotify:track:58q2HKrzhC3ozto2nDdN4z","classification":"hip hop & rap"}
+{"song":"Katmandu - Remastered 2020 - Yusuf / Cat Stevens","uri":"spotify:track:3qSqNuFMNESqqLHQMiKHMD","classification":"world music"}
+{"song":"Graceland - Paul Simon","uri":"spotify:track:51KKQAgYFoJHgVIuJWHdHb","classification":"classic & contemporary rock"}
+{"song":"One Dance - Drake","uri":"spotify:track:1zi7xx7UVEFkmKfv06H8x0","classification":"hip hop & rap"}
+{"song":"Headlines - Drake","uri":"spotify:track:6LxSe8YmdPxy095Ux6znaQ","classification":"hip hop & rap"}
+{"song":"Hotline Bling - Drake","uri":"spotify:track:0wwPcA6wtMf6HUMpIRdeP7","classification":"hip hop & rap"}
+{"song":"See You Again (feat. Kali Uchis) - Tyler, The Creator","uri":"spotify:track:7KA4W4McWYRpgf0fWsJZWB","classification":"hip hop & rap"}
+{"song":"Last Critique - Randy Newman","uri":"spotify:track:2ckHDMWfxoWvYiBFX6wLZY","classification":"jazz & piano"}
+{"song":"Being Alive - Stephen Sondheim","uri":"spotify:track:4GDSnxxtmIyVS4Twl7Y7UB","classification":"classic & contemporary rock"}
+{"song":"Feel Hai - Bali","uri":"spotify:track:5HPo4dz4rvFaKBdcE8Ss9l","classification":"hindi music"}
+{"song":"Tum Hi Ho Bandhu (From \"Cocktail\") - Neeraj Shridhar","uri":"spotify:track:2zZTXtLqCsICzEcztKjn47","classification":"hindi music"}
+{"song":"Chalo Chalein - Ritviz","uri":"spotify:track:6m0uNvHh5zG9FJmbxVxD1N","classification":"hindi music"}
+{"song":"Blah Blah Blah - Armin van Buuren","uri":"spotify:track:1moFkZDqcjQNeXtyoanLHv","classification":"electronic dance"}
+{"song":"Heartbreaker - The Stickmen Project","uri":"spotify:track:07PSGQ8vwLkuvxkWX6QVxY","classification":"classic & contemporary rock"}
+{"song":"Don't Even Know Your Name - The Stickmen Project","uri":"spotify:track:6s3OlLs8Ey8LCol4xaDb6R","classification":"classic & contemporary rock"}
+{"song":"No Fun - Armin van Buuren","uri":"spotify:track:3YOZWCREvKsxhcZNJix5xd","classification":"electronic dance"}
+{"song":"Sunn Na - Bali","uri":"spotify:track:7b8BHkjW0vfgT54yXp0Lvn","classification":"hindi music"}
+{"song":"Stereo Love - Edward Maya","uri":"spotify:track:35Dofxo9smHVxmFQbhYIAT","classification":"electronic indie & chill"}
+{"song":"Portrait of a Time - Peter Cat Recording Co.","uri":"spotify:track:0tpaTQ94O5G2lEhv9CuEFb","classification":"world music"}
+{"song":"Sexy Sadie - Remastered 2009 - The Beatles","uri":"spotify:track:2tBv9tAdqEbLNDi5smSjbg","classification":"classic & contemporary rock"}
+{"song":"Why Don't We Do It In The Road? - Remastered 2009 - The Beatles","uri":"spotify:track:4eLIq1nQNwz2qLu8DeiWIp","classification":"classic & contemporary rock"}
+{"song":"Back In The U.S.S.R. - Remastered 2009 - The Beatles","uri":"spotify:track:0j3p1p06deJ7f9xmJ9yG22","classification":"classic & contemporary rock"}
+{"song":"The Ballad Of John And Yoko - Remastered 2015 - The Beatles","uri":"spotify:track:1F7s27lLKshLPt9TPCgMDL","classification":"classic & contemporary rock"}
+{"song":"We Can Work It Out - Remastered 2015 - The Beatles","uri":"spotify:track:1hTUFqJuQAMjXVGwUPWDqi","classification":"classic & contemporary rock"}
+{"song":"While My Guitar Gently Weeps - Remastered 2009 - The Beatles","uri":"spotify:track:389QX9Q1eUOEZ19vtzzI9O","classification":"classic & contemporary rock"}
+{"song":"Suzanne - Joan Baez","uri":"spotify:track:6PvDfTEpPHITgcofUSwQPL","classification":"folk & acoustic"}
+{"song":"Diamonds And Rust - Joan Baez","uri":"spotify:track:4O0sGJdqpHMaWz7KoVd7tb","classification":"classic & contemporary rock"}
+{"song":"Donna Donna - Joan Baez","uri":"spotify:track:49uBVeaM3ixGD8VIeqh9KI","classification":"folk & acoustic"}
+{"song":"On My Way - Cocoon","uri":"spotify:track:5dzuioIrK7IYezSkG0kRpn","classification":"folk & acoustic"}
+{"song":"Telescope - Cage The Elephant","uri":"spotify:track:0tkBOcK7oRVXQJY97zzSvr","classification":"classic & contemporary rock"}
+{"song":"Still Beating - Mac DeMarco","uri":"spotify:track:2N4idqj9TT3HnH2OFT9j0v","classification":"folk & acoustic"}
+{"song":"Raabta Lofi - Uzumaki Baka","uri":"spotify:track:1Q4qymj3rRlZmIZxWzt0fo","classification":"hindi music"}
+{"song":"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors) - Lil Wayne","uri":"spotify:track:4dASQiO1Eoo3RJvt74FtXB","classification":"hip hop & rap"}
+{"song":"Spicy (feat. Post Malone) - Ty Dolla $ign","uri":"spotify:track:5IUtvfNvOyVYZUa6AJFrnP","classification":"hip hop & rap"}
+{"song":"controlla - Idealism","uri":"spotify:track:7woCxOw0jmj65ohlQ3x0tH","classification":"electronic indie & chill"}
+{"song":"Orion - Pandrezz","uri":"spotify:track:1eoGO19WEflJbAV8BLebhr","classification":"electronic indie & chill"}
+{"song":"Left Me - Mounika.","uri":"spotify:track:7kMQLTv3sOefioVmdafhKc","classification":"electronic indie & chill"}
+{"song":"Dark Red - Steve Lacy","uri":"spotify:track:37y7iDayfwm3WXn5BiAoRk","classification":"hip hop & rap"}
+{"song":"Ari Ari - Ritviz","uri":"spotify:track:3edqjLVQrRPLvt9FAYUAsT","classification":"hindi music"}
+{"song":"Woman - Doja Cat","uri":"spotify:track:6Uj1ctrBOjOas8xZXGqKk4","classification":"hip hop & rap"}
+{"song":"Chun-Li - Nicki Minaj","uri":"spotify:track:1e4rwBPVI32vZtTJu7mJ4J","classification":"hip hop & rap"}
+{"song":"Get Into It (Yuh) - Doja Cat","uri":"spotify:track:0W6I02J9xcqK8MtSeosEXb","classification":"hip hop & rap"}
+{"song":"Captain Hook - Megan Thee Stallion","uri":"spotify:track:1E3VQQWFQAPJkXfYHjqWoI","classification":"hip hop & rap"}
+{"song":"Tia Tamera (feat. Rico Nasty) - Doja Cat","uri":"spotify:track:1uNePI826aqh9uC9pgbeHU","classification":"hip hop & rap"}
+{"song":"Juicy - Doja Cat","uri":"spotify:track:4cTm3Ev9bUvy4ChJjB1nhl","classification":"hip hop & rap"}
+{"song":"Khuda Jaane - Vishal-Shekhar","uri":"spotify:track:0gPgdRfB4jdGrlyXS0Vx78","classification":"hindi music"}
+{"song":"I'm Shipping Up To Boston - Dropkick Murphys","uri":"spotify:track:7rSERmjAT38lC5QhJ8hnQc","classification":"classic & contemporary rock"}
+{"song":"B*tch From Da Souf (Remix) (feat. Trina) - Latto","uri":"spotify:track:4w1QXG2QkLvHtqqIRuaypw","classification":"hip hop & rap"}
+{"song":"Swag ka vikreta - wolf.cryman","uri":"spotify:track:0twzM2zM2dCelaQsfveMRE","classification":"hindi music"}
+{"song":"Breezeblocks - alt-J","uri":"spotify:track:3n69hLUdIsSa1WlRmjMZlW","classification":"classic & contemporary rock"}
+{"song":"Left Hand Free - alt-J","uri":"spotify:track:4iEOVEULZRvmzYSZY2ViKN","classification":"classic & contemporary rock"}
+{"song":"Taro - alt-J","uri":"spotify:track:4tmwiN9YU7xMjh2hoqcVuI","classification":"folk & acoustic"}
+{"song":"Fitzpleasure - alt-J","uri":"spotify:track:7DdXf9x75iEVCHWfoRwRuR","classification":"classic & contemporary rock"}
+{"song":"Save Room - John Legend","uri":"spotify:track:3sTc75CCyIw4FPs6cXkOe7","classification":"classic & contemporary rock"}
+{"song":"Szikra - Kornél Kovács","uri":"spotify:track:3qAvjZ84KUD5cCWkt4iCcb","classification":"electronic indie & chill"}
+{"song":"Misty Morning Stranger - Dave Mason","uri":"spotify:track:73bRuI8cDtOkzNXw7GhpvL","classification":"classic & contemporary rock"}
+{"song":"Sharab Jan Maida - Live - Sofi Shoaib Abdara","uri":"spotify:track:5wdgmygnVMjqmMpAfd1CMD","classification":"hindi music"}
+{"song":"Sharab Jan Maida Maida - Live - Sofi Shoaib Abdara","uri":"spotify:track:2BUufLwdQw8njFH5RH9h7a","classification":"hindi music"}
+{"song":"Time Flies - Sixer","uri":"spotify:track:303JR1aianzHmFpo1gGBmg","classification":"classic & contemporary rock"}
+{"song":"The Running Styles of New York - The Tallest Man On Earth","uri":"spotify:track:3EefKhNTDVkdojVKfmYnVD","classification":"folk & acoustic"}
+{"song":"Drowning (feat. Kodak Black) - A Boogie Wit da Hoodie","uri":"spotify:track:1f5cbQtDrykjarZVrShaDI","classification":"hip hop & rap"}
+{"song":"ZEZE (feat. Travis Scott & Offset) - Kodak Black","uri":"spotify:track:0FZ4Dmg8jJJAPJnvBIzD9z","classification":"hip hop & rap"}
+{"song":"Wake Up in the Sky - Gucci Mane","uri":"spotify:track:2G1tXoGBaEMJ7FKGnkf6ud","classification":"hip hop & rap"}
+{"song":"Roll in Peace (feat. XXXTENTACION) - Kodak Black","uri":"spotify:track:40oKW22ZNNkEdZLJTScaQI","classification":"hip hop & rap"}
+{"song":"Sing For The Moment - Eminem","uri":"spotify:track:1AcGKHRv5Q4TJd9yb4vjHE","classification":"hip hop & rap"}
+{"song":"Mockingbird - Eminem","uri":"spotify:track:0TGd9kXFDRQG9FF0netmah","classification":"hip hop & rap"}
+{"song":"When I'm Gone - Eminem","uri":"spotify:track:42YNobZ4HN3tRVEA47wLT6","classification":"hip hop & rap"}
+{"song":"Drop The Game - Flume","uri":"spotify:track:06WnUZymWyJamDivTWqJZA","classification":"electronic indie & chill"}
+{"song":"No Diggity - Chet Faker","uri":"spotify:track:2xD7RvKFJl52xyds3wQFXQ","classification":"electronic indie & chill"}
+{"song":"Saw You for the First Time - Laurence Guy","uri":"spotify:track:3b9MUQ7uiQHhU420B6f8Ta","classification":"electronic indie & chill"}
+{"song":"Fade into You - Andrew Belle","uri":"spotify:track:63F2nWghdifkNHVns5GT8W","classification":"folk & acoustic"}
+{"song":"Gone Sovereign - Stone Sour","uri":"spotify:track:7c3DfsUMhDTnf2JewbfU8w","classification":"classic & contemporary rock"}
+{"song":"Through Glass - Stone Sour","uri":"spotify:track:5NeIONQWJ25uPylJBJiO4c","classification":"classic & contemporary rock"}
+{"song":"Bother - Stone Sour","uri":"spotify:track:0AfIsqZ4gTUg9CwwW2jLeK","classification":"classic & contemporary rock"}
+{"song":"Across The Universe - Remastered 2009 - The Beatles","uri":"spotify:track:4dkoqJrP0L8FXftrMZongF","classification":"classic & contemporary rock"}
+{"song":"The Gold It's in the... - Pink Floyd","uri":"spotify:track:2ON80h9ZjmY0WBpVz8OPjU","classification":"classic & contemporary rock"}
+{"song":"Obscured by Clouds - Pink Floyd","uri":"spotify:track:3c8LKbUsjW9lMYQzVScXQT","classification":"classic & contemporary rock"}
+{"song":"Wot's...Uh the Deal - Pink Floyd","uri":"spotify:track:6zGFOp6rJZbYSp9DQO5AHY","classification":"classic & contemporary rock"}
+{"song":"San Tropez - Pink Floyd","uri":"spotify:track:3kbUFmLV5SHVQonfOpNgkd","classification":"classic & contemporary rock"}
+{"song":"A Pillow of Winds - Pink Floyd","uri":"spotify:track:7krbQbYq63hcwVMNW1R0tD","classification":"classic & contemporary rock"}
+{"song":"Fearless - Pink Floyd","uri":"spotify:track:7AalBKBoLDR4UmRYRJpdbj","classification":"classic & contemporary rock"}
+{"song":"Till the End of Days - Bermuda Triangle","uri":"spotify:track:5HAfVvphUf16nVpbrwo0zI","classification":"classic & contemporary rock"}
+{"song":"Rosey - Bermuda Triangle","uri":"spotify:track:6hQyok9o5eHVrOTrAnHKro","classification":"electronic indie & chill"}
+{"song":"Suzanne - Bermuda Triangle","uri":"spotify:track:3MBZ0BaWosUjsn40TeYYk5","classification":"folk & acoustic"}
+{"song":"Peter Pan - Polo & Pan","uri":"spotify:track:2BHi4PkWHFdiqHnT2X6mZS","classification":"electronic indie & chill"}
+{"song":"Me and Bobby McGee - Janis Joplin","uri":"spotify:track:1IqFh00G2kvvMm8pRMpehA","classification":"classic & contemporary rock"}
+{"song":"Song to Woody - Bob Dylan","uri":"spotify:track:5olxbOPjD3wO98DhpRZzL7","classification":"folk & acoustic"}
+{"song":"Break Apart - Bonobo","uri":"spotify:track:2pYvd6cHcAIMAM6xMD6nok","classification":"electronic indie & chill"}
+{"song":"Cutiepie (From \"Ae Dil Hai Mushkil\") - Pritam","uri":"spotify:track:7hXnhouVPnOnFwCGrQMHvB","classification":"hindi music"}
+{"song":"Balam Pichkari - Pritam","uri":"spotify:track:18e3XXYCv4Tx8uUl1mP3CN","classification":"hindi music"}
+{"song":"Ballad of Hollis Brown - Bob Dylan","uri":"spotify:track:3Si9u9FVlUTcUXVcawnstJ","classification":"classic & contemporary rock"}
+{"song":"Things Have Changed - Single Version - Bob Dylan","uri":"spotify:track:3UEWtvTL3mE797dNOv8Rzw","classification":"classic & contemporary rock"}
+{"song":"DÁKITI - Bad Bunny","uri":"spotify:track:47EiUVwUp4C9fGccaPuUCS","classification":"hip hop & rap"}
+{"song":"Yonaguni - Bad Bunny","uri":"spotify:track:2JPLbjOn0wPCngEot2STUS","classification":"hip hop & rap"}
+{"song":"Somewhere Still Present - GRUDGEMASTERS","uri":"spotify:track:3QJKR7HjSCa7DA67l27am8","classification":"electronic indie & chill"}
+{"song":"Disco Dancer - GRUDGEMASTERS","uri":"spotify:track:6DQe7UIerv2aPcLe8mUiRn","classification":"electronic dance"}
+{"song":"Sway (feat. Diddy) - Majid Jordan","uri":"spotify:track:3bOA7i7XYLx3r9jHCgoOjM","classification":"hip hop & rap"}
+{"song":"Kerala - Bonobo","uri":"spotify:track:5DAjrJqXqYtgr67pVhmUeR","classification":"electronic indie & chill"}
+{"song":"Fake It - Seether","uri":"spotify:track:4eAwB5pnKFTmsgc3zWoYO0","classification":"classic & contemporary rock"}
+{"song":"The Water - feat. Laura Marling - Johnny Flynn","uri":"spotify:track:69FraOspp1B24ZFBqlUaoV","classification":"folk & acoustic"}
+{"song":"Idontknow - Jamie xx","uri":"spotify:track:7nSBHckG4tTFkp0xqNZDs5","classification":"electronic indie & chill"}
+{"song":"We're Going to Be Friends - The White Stripes","uri":"spotify:track:13lZDbwonGhOflQLQIfdtZ","classification":"classic & contemporary rock"}
+{"song":"Jealousy - Remastered 2011 - Queen","uri":"spotify:track:1tEol8qQbvDo1MqKtx8iPw","classification":"classic & contemporary rock"}
+{"song":"Mustapha - Remastered 2011 - Queen","uri":"spotify:track:1AiIUvuAH3m1Hugunwaqrd","classification":"classic & contemporary rock"}
+{"song":"Tenement Funster - Remastered 2011 - Queen","uri":"spotify:track:1irLnUcfHmw3WhkkfltRWe","classification":"classic & contemporary rock"}
+{"song":"Silver Springs - 2004 Remaster - Fleetwood Mac","uri":"spotify:track:4nZi6XNe36Ut4Nij3IQ1yC","classification":"classic & contemporary rock"}
+{"song":"Gold Dust Woman - 2004 Remaster - Fleetwood Mac","uri":"spotify:track:2ssyECwAX5JxtcAUTFw7wI","classification":"classic & contemporary rock"}
+{"song":"Oh Daddy - 2004 Remaster - Fleetwood Mac","uri":"spotify:track:2wmr2A1ixEx9qViaOMkkkW","classification":"classic & contemporary rock"}
+{"song":"Never Going Back Again - 2004 Remaster - Fleetwood Mac","uri":"spotify:track:19Shlms2uTnOjIUg50TXzd","classification":"classic & contemporary rock"}
+{"song":"Second Hand News - 2004 Remaster - Fleetwood Mac","uri":"spotify:track:4SZhxF0sIS8nDvwhT0Tt2V","classification":"classic & contemporary rock"}
+{"song":"$ave Dat Money (feat. Fetty Wap & Rich Homie Quan) - Lil Dicky","uri":"spotify:track:1TkWsnheqK0gBtvh07BtNX","classification":"hip hop & rap"}
+{"song":"Freaky Friday (feat. Chris Brown) - Lil Dicky","uri":"spotify:track:10Igtw8bSDyyFs7KIsKngZ","classification":"hip hop & rap"}
+{"song":"Lemme Freak - Lil Dicky","uri":"spotify:track:46nJ8ZPiUX4TuvCey0Wcz1","classification":"hip hop & rap"}
+{"song":"Just Lose It - Eminem","uri":"spotify:track:6pocsnip9WtmYlBQSfawfq","classification":"hip hop & rap"}
+{"song":"Unstoppable - Sia","uri":"spotify:track:1yvMUkIOTeUNtNWlWRgANS","classification":"electronic indie & chill"}
+{"song":"EARFQUAKE - Tyler, The Creator","uri":"spotify:track:5hVghJ4KaYES3BFUATCYn0","classification":"hip hop & rap"}
+{"song":"LOYALTY. FEAT. RIHANNA. - Kendrick Lamar","uri":"spotify:track:6SwRhMLwNqEi6alNPVG00n","classification":"hip hop & rap"}
+{"song":"Cotton Eye Joe - Rednex","uri":"spotify:track:0Jg602cHeMCnPez9baacIe","classification":"folk & acoustic"}
+{"song":"All Herb (feat. Amindi) - Isaiah Rashad","uri":"spotify:track:4JsTX2WkPcdDTWbchQJuko","classification":"hip hop & rap"}
+{"song":"Hello? - Clairo","uri":"spotify:track:7qwt4xUIqQWCu1DJf96g2k","classification":"electronic indie & chill"}
+{"song":"False Pretense - The Red Jumpsuit Apparatus","uri":"spotify:track:2ZICF8SFI5tHttaLJKMY1X","classification":"classic & contemporary rock"}
+{"song":"Drive By - Train","uri":"spotify:track:0KAiuUOrLTIkzkpfpn9jb9","classification":"classic & contemporary rock"}
+{"song":"La forêt - Lescop","uri":"spotify:track:3mEb1rDaVl13swOcpkItwJ","classification":"french stuff"}
+{"song":"Mi Negrita - Devendra Banhart","uri":"spotify:track:4r7iDEGdW2Gw9hJlCbi5qL","classification":"world music"}
+{"song":"スポーツマン (2019 Remastering) - Haruomi Hosono","uri":"spotify:track:7wK3vFraZXIjVxOqObajAL","classification":"world music"}
+{"song":"Save Your Tears - The Weeknd","uri":"spotify:track:5QO79kh1waicV47BqGRL3g","classification":"electronic indie & chill"}
+{"song":"Pinch Me - L00Z","uri":"spotify:track:5McIAUWuQQ09Bn70JNnfoJ","classification":"electronic indie & chill"}
+{"song":"It Wasn't Me - Shaggy","uri":"spotify:track:3WkibOpDF7cQ5xntM1epyf","classification":"hip hop & rap"}
+{"song":"Emosanal Attyachaar (Brass Band Version) - Band Master Rangeela","uri":"spotify:track:7iW9pTNgp2HtlRJinoYuiA","classification":"hindi music"}
+{"song":"One Two Three Four (Get On The Dance Floor) - Vishal Dadlani","uri":"spotify:track:3XyFQxpSlGowWpZkIn3ISA","classification":"electronic dance"}
+{"song":"Gnarciss - Jeff Parker","uri":"spotify:track:364AQozMcnSOXBliejGU6e","classification":"jazz & piano"}
+{"song":"Fusion Swirl - Jeff Parker","uri":"spotify:track:0i3mr31znLAOoGLOtKG3Wg","classification":"jazz & piano"}
+{"song":"After the Rain - Jeff Parker","uri":"spotify:track:24pOZghAH9yG6c8fCFTkmy","classification":"jazz & piano"}
+{"song":"YOSEMITE - Travis Scott","uri":"spotify:track:7lAK3oHbfEnvUQWosrMMpR","classification":"hip hop & rap"}
+{"song":"Praise God - Kanye West","uri":"spotify:track:0Zm7NKJgoKY6ZWwtoEUILK","classification":"hip hop & rap"}
+{"song":"Ok Ok pt 2 - Kanye West","uri":"spotify:track:1QCqedB1ibmRO9x7Ikb5LI","classification":"hip hop & rap"}
+{"song":"(Sittin' On) the Dock of the Bay - Otis Redding","uri":"spotify:track:3zBhihYUHBmGd2bcQIobrF","classification":"classic & contemporary rock"}
+{"song":"Sunny Afternoon - The Kinks","uri":"spotify:track:0DQqzCHlPyKQXfF8uL01SI","classification":"classic & contemporary rock"}
+{"song":"50 Ways to Leave Your Lover - Paul Simon","uri":"spotify:track:6Qb7gtV6Q4MnUjSbkFcopl","classification":"classic & contemporary rock"}
+{"song":"Reach Out - Marc Rebillet","uri":"spotify:track:5WKs5nHNseedSb4tJMPU8J","classification":"electronic indie & chill"}
+{"song":"Untz Untz - Dimitri Vegas & Like Mike","uri":"spotify:track:5Uj0VnayJKOuP9GmmDPNOx","classification":"electronic dance"}
+{"song":"Don't Go Yet - Camila Cabello","uri":"spotify:track:1058fW9H3fZA6QjYCdOBad","classification":"hip hop & rap"}
+{"song":"August - Cosa Nostra Strings","uri":"spotify:track:1fPkl01nB5P2dQKKjadQl4","classification":"world music"}
+{"song":"Emperor Lewis - Cosa Nostra Strings","uri":"spotify:track:7esgHUZAXiFhcAlBP4kAT9","classification":"world music"}
+{"song":"The Acrobat - Cosa Nostra Strings","uri":"spotify:track:4wHmAXpGlEGSOIs8GEEEcT","classification":"electronic indie & chill"}
+{"song":"Kill Em with Kindness - Cosa Nostra Strings","uri":"spotify:track:2gEIRz3UIt44A1qwgBAu3W","classification":"classic & contemporary rock"}
+{"song":"Achilles Heel - Cosa Nostra Strings","uri":"spotify:track:4oqKH0tQGYOYOJ3vGXdVZH","classification":"classic & contemporary rock"}
+{"song":"Losing My Way - FKJ","uri":"spotify:track:4yMT3mbUsiukLDRqPfQ9rN","classification":"electronic indie & chill"}
+{"song":"Maddy La Nuit - Flavien Berger","uri":"spotify:track:1uqcwvZ8COoq85XOksYyhK","classification":"french stuff"}
+{"song":"Energia - Sofi Tukker","uri":"spotify:track:2Vkta6KBzwPtFwCpuguGeu","classification":"electronic indie & chill"}
+{"song":"Fuck They - Sofi Tukker","uri":"spotify:track:2Uo0BweqJT5TYWMxBGt5R6","classification":"electronic indie & chill"}
+{"song":"Nica Libres At Dusk - Ben Howard","uri":"spotify:track:5eSH7Aubn6Ol80ynF4MV2L","classification":"folk & acoustic"}
+{"song":"The Hearse - Mustafa","uri":"spotify:track:4OWwJ7gwDenLKBYfR2QYJC","classification":"hip hop & rap"}
+{"song":"Purple Hat - Sofi Tukker","uri":"spotify:track:0bGH7ezs7WdDwpqnsvGf1z","classification":"electronic indie & chill"}
+{"song":"It Don’t Matter - Spotify Singles - Alok","uri":"spotify:track:7ltLi7CG003USSGYsSba9s","classification":"electronic dance"}
+{"song":"It's A Vibe - 2 Chainz","uri":"spotify:track:6H0AwSQ20mo62jGlPGB8S6","classification":"hip hop & rap"}
+{"song":"I'll Be With You - Apartment Upstairs","uri":"spotify:track:1cPRsjayiASoq23P6Qn9sn","classification":"folk & acoustic"}
+{"song":"SupaFreak - Jeezy","uri":"spotify:track:3LBCnV4LZ9GNNrga7EH6Gy","classification":"hip hop & rap"}
+{"song":"Some - Steve Lacy","uri":"spotify:track:4riDfclV7kPDT9D58FpmHd","classification":"electronic indie & chill"}
+{"song":"Colorado - Kota the Friend","uri":"spotify:track:3DbBgbnDUOml329rAp2Tbr","classification":"hip hop & rap"}
+{"song":"Same Shit - nassím","uri":"spotify:track:13dg9QYK8az5nbQUvb6QYe","classification":"hip hop & rap"}
+{"song":"Compliqué - Kyma","uri":"spotify:track:5f1QT4l7b3jMVRpePNGTvd","classification":"french stuff"}
+{"song":"Where'd All the Time Go? - Dr. Dog","uri":"spotify:track:0UV5zxRMz6AO4ZwUOZNIKI","classification":"classic & contemporary rock"}
+{"song":"Kool Aid & Frozen Pizza - Mac Miller","uri":"spotify:track:2TyjVO7KBdGHBvQxAnFFsa","classification":"hip hop & rap"}
+{"song":"Big Love - Simply Red","uri":"spotify:track:4GlThMdfVYtKpLf8EshHkU","classification":"classic & contemporary rock"}
+{"song":"Riding on a Train - Simply Red","uri":"spotify:track:5mkIB0r1qByrdY59f6qgFN","classification":"classic & contemporary rock"}
+{"song":"Thinking of You - Danny Trexin Remix - Simply Red","uri":"spotify:track:4RdWrVJOIkgEtgrBNRFSqX","classification":"electronic dance"}
+{"song":"Shakespeare - Akala","uri":"spotify:track:0njIwlLxfNlKIaEuoSeFWi","classification":"hip hop & rap"}
+{"song":"Hungry Eyes - Eric Carmen","uri":"spotify:track:3sTSo8X7UCDTVUVMJ63LJO","classification":"classic & contemporary rock"}
+{"song":"Beautiful Escape - Tom Misch","uri":"spotify:track:5MChi9fdCbTIWDJPPUuuW6","classification":"electronic indie & chill"}
+{"song":"Stereo - BoomBox","uri":"spotify:track:6X4f2HyaLrwTVi5juD27jY","classification":"electronic indie & chill"}
+{"song":"Sunrise - Simply Red","uri":"spotify:track:0jGVEPscW8KmqktoHqv2Pa","classification":"classic & contemporary rock"}
+{"song":"The Bird - Anderson .Paak","uri":"spotify:track:7pamxApUs3CE8t7tKmUJ6Z","classification":"hip hop & rap"}
+{"song":"Boom - Major Lazer","uri":"spotify:track:1tdcgxjvbBSAdOwzFUmdgm","classification":"electronic dance"}
+{"song":"India - BoomBox","uri":"spotify:track:386CJPc8jgJMRlzhKfWlFO","classification":"hindi music"}
+{"song":"La Niña Del Volcán (feat. Eva De Marce) - YoSoyMatt","uri":"spotify:track:5AQHfoGrFB3u6MvWI0wrQr","classification":"world music"}
+{"song":"Sonate pacifique - L'Impératrice","uri":"spotify:track:5Cs03vgzmWuvz7wXkm4gJ9","classification":"french stuff"}
+{"song":"Watch Out For This (Bumaye) - Major Lazer","uri":"spotify:track:3j9o0zUoyGNXkijNSyRyBI","classification":"electronic dance"}
+{"song":"Cafo - Animals As Leaders","uri":"spotify:track:1ZfnGTUnha3QHj3KFmub0W","classification":"classic & contemporary rock"}
+{"song":"Typhoons - Royal Blood","uri":"spotify:track:6BsZx9FarJrLddTNu2k6pU","classification":"classic & contemporary rock"}
+{"song":"Polly - Nirvana","uri":"spotify:track:3tlXDvaNrrOmdvG0XVUOcv","classification":"classic & contemporary rock"}
+{"song":"The Man Who Sold The World - Live - Nirvana","uri":"spotify:track:15VRO9CQwMpbqUYA7e6Hwg","classification":"classic & contemporary rock"}
+{"song":"Pili Pili - Polo & Pan","uri":"spotify:track:74N9cnVOhruZpoZUt4Ky5z","classification":"electronic indie & chill"}
+{"song":"Stoney (feat. Phoelix & BJRKNC) - Saba","uri":"spotify:track:0HU8CeTestQjoRF2ekaLqx","classification":"hip hop & rap"}
+{"song":"Taste - KAYTRANADA","uri":"spotify:track:0BrNxl46Vnt1Ln8jVJFktl","classification":"electronic indie & chill"}
+{"song":"Losing Something - Babe Rainbow","uri":"spotify:track:7yoGLDciykKEhI7gSvtggd","classification":"folk & acoustic"}
+{"song":"Make It Hot - Major Lazer","uri":"spotify:track:3MXUsff3RxRds9KCVttibq","classification":"electronic dance"}
+{"song":"Drinkee - Sofi Tukker","uri":"spotify:track:0WE8YTl6GAVHnkfvMfci98","classification":"electronic indie & chill"}
+{"song":"We Ain't Feeling Time - FKJ","uri":"spotify:track:0uPA6fX70cCdfG172jdcKO","classification":"electronic indie & chill"}
+{"song":"Attrape-rêve - Polo & Pan","uri":"spotify:track:0aTaTaROrLwQokUSudVKIe","classification":"french stuff"}
+{"song":"LafdeBaaz - Jayt","uri":"spotify:track:2QK88fPAKYPRITbmyZSPoV","classification":"hip hop & rap"}
+{"song":"MALLUS ON DRILL - SKIVINNIE","uri":"spotify:track:2LqTpGIHexDeKmDVRyohSu","classification":"hip hop & rap"}
+{"song":"Take Over - Ruff Jana","uri":"spotify:track:520E0Y0TrIiMiP9HP5UTES","classification":"electronic dance"}
+{"song":"S.L.A.B - Parimal Shais","uri":"spotify:track:5uhx05KClZu3Hexwn3TLeY","classification":"hindi music"}
+{"song":"The Island, Pt. I (Dawn) - Pendulum","uri":"spotify:track:1Thv8uCYzyOFC7PME9J936","classification":"electronic dance"}
+{"song":"Crush - Pendulum","uri":"spotify:track:6hzwfFKrTabeUsW5SWti17","classification":"electronic dance"}
+{"song":"Under - Mac Ayres","uri":"spotify:track:0PZRlp2wrQDausamlangtw","classification":"electronic indie & chill"}
+{"song":"Next to You - Mac Ayres","uri":"spotify:track:2YrY6NOa7tpNCgOUnTloj5","classification":"electronic indie & chill"}
+{"song":"Dance Yrself Clean - LCD Soundsystem","uri":"spotify:track:2cmRpmO04TLaKPzmAzySYZ","classification":"electronic indie & chill"}
+{"song":"Ugotme - Omar Apollo","uri":"spotify:track:2NCBjlH7FHEG7hXcnvUaWA","classification":"electronic indie & chill"}
+{"song":"Strange Timez (feat. Robert Smith) - Gorillaz","uri":"spotify:track:1bvPlrTtIpj7CSXRaJpALg","classification":"electronic indie & chill"}
+{"song":"Opium (feat. EARTHGANG) - Gorillaz","uri":"spotify:track:4jNs9cJBsFTiahZAe3iuwV","classification":"hip hop & rap"}
+{"song":"Weekend (feat. Miguel) - Mac Miller","uri":"spotify:track:6GnhWMhgJb7uyiiPEiEkDA","classification":"hip hop & rap"}
+{"song":"In the Bag - Mac Miller","uri":"spotify:track:7odIekt1GqLVEAAWdnd9mJ","classification":"hip hop & rap"}
+{"song":"Break the Law - Mac Miller","uri":"spotify:track:7qfur8OfEOABgenV3Wf0JK","classification":"hip hop & rap"}
+{"song":"Perfect Circle / God Speed - Mac Miller","uri":"spotify:track:4TlN2LSHn3DzauUe77l0ib","classification":"hip hop & rap"}
+{"song":"Jet Fuel - Mac Miller","uri":"spotify:track:2JmFRXaJrkAUD2cs6U20KG","classification":"hip hop & rap"}
+{"song":"Dunno - Mac Miller","uri":"spotify:track:3YnwIp2b99p3e5dsFTXIIx","classification":"hip hop & rap"}
+{"song":"Somewhere - Hauskey","uri":"spotify:track:0yTfXjMmoCQVmn2kYjBodD","classification":"electronic indie & chill"}
+{"song":"that's us - Golden Vessel","uri":"spotify:track:7hdJ19mc75khsTuCYcJwRL","classification":"electronic indie & chill"}
+{"song":"Tone's Rap - BADBADNOTGOOD","uri":"spotify:track:3xRB45SiXwb4mU50U0IYum","classification":"hip hop & rap"}
+{"song":"Sour Soul - BADBADNOTGOOD","uri":"spotify:track:48mJsuV6IsDVrjkhqR2mHG","classification":"electronic indie & chill"}
+{"song":"I Fall In Love Too Easily - Chet Baker","uri":"spotify:track:0F845nujLVqCb0XMZCh5Pc","classification":"jazz & piano"}
+{"song":"It's Always You - Vocal Version - Chet Baker","uri":"spotify:track:06UkYE0SZ3Y8zGRFOuWGAe","classification":"jazz & piano"}
+{"song":"Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb) - Miles Davis","uri":"spotify:track:0PHqHvmg4TIaANfbsvDMTR","classification":"jazz & piano"}
+{"song":"Shofukan - Snarky Puppy","uri":"spotify:track:1BWsQm7kOBjK2aSFYg5HQZ","classification":"jazz & piano"}
+{"song":"Big Nothing - Willie J Healey","uri":"spotify:track:5z8uTILTDLsjfeQot1NA7t","classification":"classic & contemporary rock"}
+{"song":"Superstar - Pretty Sick","uri":"spotify:track:5wIYMYa6syn9xxL3i0mVx9","classification":"classic & contemporary rock"}
+{"song":"Doors - Yusuf / Cat Stevens","uri":"spotify:track:6IHxCNf2OVT1Db9TtyxHco","classification":"classic & contemporary rock"}
+{"song":"I Was Raised in Babylon - Yusuf / Cat Stevens","uri":"spotify:track:7clH0gJH6zSRRXHpiK0lLF","classification":"folk & acoustic"}
+{"song":"Die Young - Sylvan Esso","uri":"spotify:track:1BRwuvjhkgezmv1gcI6lT6","classification":"electronic indie & chill"}
+{"song":"Bodysurfing - Taimane","uri":"spotify:track:3mle4Q9c2ejklpS8m67QtP","classification":"world music"}
+{"song":"I Don't Care About You - Lake Street Dive","uri":"spotify:track:5sOhS3m45IPP9sUBXXlYGI","classification":"folk & acoustic"}
+{"song":"Lovesick Girls - BLACKPINK","uri":"spotify:track:4Ws314Ylb27BVsvlZOy30C","classification":"hip hop & rap"}
+{"song":"August 10 - Khruangbin","uri":"spotify:track:4VBR3KptORIDW9dRAeLpCn","classification":"world music"}
+{"song":"Maria También - Khruangbin","uri":"spotify:track:66MpvsWO5O7gy9LjXGFw6I","classification":"world music"}
+{"song":"Self Care - Mac Miller","uri":"spotify:track:5bJ1DrEM4hNCafcDd1oxHx","classification":"hip hop & rap"}
+{"song":"Lost & Found - Jorja Smith","uri":"spotify:track:6jaLFu5HvfNrI1JmcM4eXu","classification":"hip hop & rap"}
+{"song":"Teenage Fantasy - Jorja Smith","uri":"spotify:track:0fIFjeeLJjIBliWUCsxyMF","classification":"hip hop & rap"}
+{"song":"Something New (feat. Ty Dolla $ign) - Wiz Khalifa","uri":"spotify:track:6u8hSdYZxbK5EczDPRIXXf","classification":"hip hop & rap"}
+{"song":"Ego Death (feat. Kanye West, FKA twigs & Skrillex) - Ty Dolla $ign","uri":"spotify:track:4JB0EAT4BkLShTyTt50FmO","classification":"hip hop & rap"}
+{"song":"What's the Use? - Mac Miller","uri":"spotify:track:2dgrYdgguVZKeCsrVb9XEs","classification":"hip hop & rap"}
+{"song":"Convoque Seu Buda - Criolo","uri":"spotify:track:491cscjIpHsUJXhYT0k2tn","classification":"hindi music"}
+{"song":"Mariô - Criolo","uri":"spotify:track:3hhC43A13GnvLnvhSXemhN","classification":"world music"}
+{"song":"Freguês da Meia Noite - Criolo","uri":"spotify:track:5XJMVJoq9otQBf2lMbxagJ","classification":"world music"}
+{"song":"Blue World - Mac Miller","uri":"spotify:track:2hwOoMtWPtTSSn6WHV7Vp5","classification":"hip hop & rap"}
+{"song":"Good News - Mac Miller","uri":"spotify:track:1DWZUa5Mzf2BwzpHtgbHPY","classification":"hip hop & rap"}
+{"song":"Okay Dokey - MINO","uri":"spotify:track:1R6qeTvAvaxB7hydIYVIY8","classification":"hip hop & rap"}
+{"song":"ZUTTER (GD&T.O.P) - BIGBANG","uri":"spotify:track:3lYPk1b8Ai6R6zvayGyRbW","classification":"hip hop & rap"}
+{"song":"Born Hater - Epik High","uri":"spotify:track:5U7tpgpGPatDwrpUn5MuZg","classification":"hip hop & rap"}
+{"song":"BANG BANG BANG - BIGBANG","uri":"spotify:track:0QIRm9sUkGnezGznkWCqCo","classification":"hip hop & rap"}
+{"song":"LOSER - BIGBANG","uri":"spotify:track:4a1FFgdBIbAvyn4d40YAPZ","classification":"hip hop & rap"}
+{"song":"Ladders - Mac Miller","uri":"spotify:track:39NDBdU5Xkm5pCFGa5kZtI","classification":"hip hop & rap"}
+{"song":"Hurt Feelings - Mac Miller","uri":"spotify:track:5p7GiBZNL1afJJDUrOA6C8","classification":"hip hop & rap"}
+{"song":"Dang! (feat. Anderson .Paak) - Mac Miller","uri":"spotify:track:5iUQMwxUPdJBFeGkePtM66","classification":"hip hop & rap"}
+{"song":"Gunshowers - BADBADNOTGOOD","uri":"spotify:track:6DXadaMKDmZ0iqpoW90LH2","classification":"electronic indie & chill"}
+{"song":"Insecurity - Metronomy","uri":"spotify:track:6SN2BDBPcvKg5VdBltYJba","classification":"electronic indie & chill"}
+{"song":"Time Moves Slow - BADBADNOTGOOD","uri":"spotify:track:1I40L32fTSSkBkPeArX9Ul","classification":"jazz & piano"}
+{"song":"Need It - KAYTRANADA","uri":"spotify:track:11NwaUSqSYmZrFWo2qO2Ng","classification":"electronic indie & chill"}
+{"song":"DYSFUNCTIONAL - KAYTRANADA","uri":"spotify:track:60y3oBiHHIlOzUFZRWP6Ak","classification":"electronic indie & chill"}
+{"song":"Where Angels Fear To Tread - Disclosure","uri":"spotify:track:1ZqeykOaDmjkldzs7XGR4b","classification":"electronic indie & chill"}
+{"song":"Han Pan - Original Mix - Peggy Gou","uri":"spotify:track:6z7Y23tSMqnHVDU51I3VjT","classification":"electronic dance"}
+{"song":"To Let A Good Thing Die - Bruno Major","uri":"spotify:track:0lrUh5vot66Srp1aeLTvej","classification":"folk & acoustic"}
+{"song":"Regent's Park - Bruno Major","uri":"spotify:track:2lU8zMzPhEEDuiUUcUIZAL","classification":"folk & acoustic"}
+{"song":"Yam Yam - No Vacation","uri":"spotify:track:7kyiHjkFdmHcYcIJtFAdaF","classification":"folk & acoustic"}
+{"song":"The Most Beautiful Thing - Bruno Major","uri":"spotify:track:5unXHHcSQLGO19RuVqZB6d","classification":"folk & acoustic"}
+{"song":"Saturday Sun - Nick Drake","uri":"spotify:track:1drLQNS9D5z9lBP4DbtO2R","classification":"folk & acoustic"}
+{"song":"This Mess We're In - PJ Harvey","uri":"spotify:track:3vNFsxBbA4dPkymPF5Jm1b","classification":"classic & contemporary rock"}
+{"song":"Place To Be - Nick Drake","uri":"spotify:track:2YkQuh1bijWzQJie9KfFQi","classification":"folk & acoustic"}
+{"song":"Golden Brown - The Stranglers","uri":"spotify:track:2AX5E86cn9n2dgioZEjirI","classification":"classic & contemporary rock"}
+{"song":"Texas Sun - Khruangbin","uri":"spotify:track:3k5oLgungD1dSOGLqQdIQw","classification":"world music"}
+{"song":"Colours - I'm Not A Band","uri":"spotify:track:22ePthPA9VKncgdgwdIZvH","classification":"electronic indie & chill"}
+{"song":"C'mon Back - The Sanctuary Project","uri":"spotify:track:76ekzyp0PptEwqfhWaMwo9","classification":"classic & contemporary rock"}
+{"song":"Dance a Little Bit Closer - Babert","uri":"spotify:track:4uEkby56Sn6yRARh8Vh7RG","classification":"electronic dance"}
+{"song":"Impi - Johnny Clegg & Juluka","uri":"spotify:track:0pFf6bfnpeSzYSIFMbtYdP","classification":"world music"}
+{"song":"Easy - I'm Not A Band","uri":"spotify:track:6kmrow1FkF2zrv1DC97x7n","classification":"electronic indie & chill"}
+{"song":"Connaissais de Face - Khruangbin","uri":"spotify:track:6cVstYpU7fB0IKhJJmaqVe","classification":"world music"}
+{"song":"Time (You and I) - Khruangbin","uri":"spotify:track:4fMIe4htuvA8RoygYDFqO5","classification":"world music"}
+{"song":"Come Together - The Internet","uri":"spotify:track:1l32mo5oW5oIRRjNnVJBNR","classification":"hip hop & rap"}
+{"song":"First Class - Khruangbin","uri":"spotify:track:4z2XNXfoN8xnVP3rYdOU0l","classification":"world music"}
+{"song":"Dil Haare - Ankur Tewari","uri":"spotify:track:26u6HGjzExhRZD5ifgTBnG","classification":"hindi music"}
+{"song":"Memory Box - Peter Cat Recording Co.","uri":"spotify:track:024nqC9O76nvAuIWtQGdQy","classification":"electronic indie & chill"}
+{"song":"Look At Me - Remastered 2010 - John Lennon","uri":"spotify:track:2yDEE5r9aIbSEWEgzfoFGu","classification":"classic & contemporary rock"}
+{"song":"Love - Remastered 2010 - John Lennon","uri":"spotify:track:0SEmf7XdvzCmmEjtpZKIKl","classification":"classic & contemporary rock"}
+{"song":"Working Class Hero - Remastered 2010 - John Lennon","uri":"spotify:track:1yKQBy7olMIqRpziyAzf8c","classification":"classic & contemporary rock"}
+{"song":"Cold Turkey - Single Version / Remastered 2010 - John Lennon","uri":"spotify:track:1xG8GNKh97UcMAR1nTAKhQ","classification":"classic & contemporary rock"}
+{"song":"O - Coldplay","uri":"spotify:track:77yuzxCS3csrgTPSW0pvyk","classification":"classic & contemporary rock"}
+{"song":"Love Me Like (feat. DUCKWRTH) - Rayana Jay","uri":"spotify:track:5FFUDCkMjxuK6XQZNumN55","classification":"hip hop & rap"}
+{"song":"Un anno d'amore - Mina","uri":"spotify:track:2rn48d6ACa5rpLLnnowNQ0","classification":"french stuff"}
+{"song":"Don't Bring Me Down - Electric Light Orchestra","uri":"spotify:track:72ahyckBJfTigJCFCviVN7","classification":"classic & contemporary rock"}
+{"song":"Tejeta - Suryakant Swahney","uri":"spotify:track:3SMcwXxHt40YyBk8t4APfw","classification":"hindi music"}
+{"song":"4:00A.M. - Taeko Onuki","uri":"spotify:track:2lV8YY0GQYXgtUWXM4NJ4X","classification":"jazz & piano"}
+{"song":"3WW (feat. Lomepal) - Lomepal Version - alt-J","uri":"spotify:track:0l7juCsOXlk7gF6jet8tB0","classification":"french stuff"}
+{"song":"WYWD - Remix - Girl Unit","uri":"spotify:track:4hFi1gI6EUBHoi9FjtvCKN","classification":"electronic indie & chill"}
+{"song":"Tonight - Burna Boy","uri":"spotify:track:1uUicV3BDzRccm6azPFnrl","classification":"hip hop & rap"}
+{"song":"Vex Oh (feat. Eight9FLY) - KAYTRANADA","uri":"spotify:track:4n358XQMHXd0xi6NazWdxr","classification":"electronic indie & chill"}
+{"song":"Melty Caramelo - Divino Niño","uri":"spotify:track:6hNP5kgSeku62HJnOimaR6","classification":"world music"}
+{"song":"Formidable - Stromae","uri":"spotify:track:382n05RtneO3ykQlFQrAd1","classification":"french stuff"}
+{"song":"Tous les mêmes - Stromae","uri":"spotify:track:1GC1MIaRMW3kfVK9VyD5Ii","classification":"french stuff"}
+{"song":"SLOW DANCING IN THE DARK - Joji","uri":"spotify:track:0rKtyWc8bvkriBthvHKY8d","classification":"electronic indie & chill"}
+{"song":"WHAT'S GOOD - Tyler, The Creator","uri":"spotify:track:6bOkaEXc5CopinGazSLokx","classification":"hip hop & rap"}
+{"song":"Truth - Kamasi Washington","uri":"spotify:track:41AtPa0RB4WZxbMag1S5Ym","classification":"jazz & piano"}
+{"song":"Street Fighter Mas - Kamasi Washington","uri":"spotify:track:2kTWcP2fid9TKLdcRuiAq4","classification":"jazz & piano"}
+{"song":"Clouds & Cream - Sticky Fingers","uri":"spotify:track:2YTrgbxNPcqzSXQY9acap9","classification":"classic & contemporary rock"}
+{"song":"Teesri Manzil - DIVINE","uri":"spotify:track:4oKcFaWmBSF3SGGYo4qq6R","classification":"hindi music"}
+{"song":"Farak - DIVINE","uri":"spotify:track:0wcvsHMMrwA1Ah47RDJpdj","classification":"hip hop & rap"}
+{"song":"Vibe Hai - DIVINE","uri":"spotify:track:4LCNHHhUJB0rqvmlxwstmN","classification":"hip hop & rap"}
+{"song":"Kohinoor - DIVINE","uri":"spotify:track:1VYMsDdZ3toHtlZxAGS95n","classification":"hip hop & rap"}
+{"song":"Chal Bombay - DIVINE","uri":"spotify:track:6AooRgSRDzbCYL4NZ4RCjU","classification":"hip hop & rap"}
+{"song":"Don't Phunk With My Heart - Black Eyed Peas","uri":"spotify:track:4MtDnnAJ1AtWit10FRmZdW","classification":"hip hop & rap"}
+{"song":"My Humps - Black Eyed Peas","uri":"spotify:track:19JdbdEwQI7bCxefMokZO8","classification":"hip hop & rap"}
+{"song":"CYANIDE - Daniel Caesar","uri":"spotify:track:3uouaAVXpQR3X8RYkJyitQ","classification":"jazz & piano"}
+{"song":"Legacy - Eminem","uri":"spotify:track:1mavQ4WCzXSeL2Dm5DS4GQ","classification":"hip hop & rap"}
+{"song":"The Box - Roddy Ricch","uri":"spotify:track:0nbXyq5TXYPCO7pr3N8S4I","classification":"hip hop & rap"}
+{"song":"Little Dark Age - MGMT","uri":"spotify:track:2Y0iGXY6m6immVb2ktbseM","classification":"classic & contemporary rock"}
+{"song":"Runnin' - Manwolves","uri":"spotify:track:54bRnKNYmlsAkpH709fFAd","classification":"hip hop & rap"}
+{"song":"Fast Lane - Bad Meets Evil","uri":"spotify:track:2c5Isyd07hWsl7AQia2Dig","classification":"hip hop & rap"}
+{"song":"Paint It, Black - The Rolling Stones","uri":"spotify:track:63T7DJ1AFDD6Bn8VzG6JE8","classification":"classic & contemporary rock"}
+{"song":"Killer Queen - Remastered 2011 - Queen","uri":"spotify:track:7GqWnsKhMtEW0nzki5o0d8","classification":"classic & contemporary rock"}
+{"song":"Keramas - Moon Boots","uri":"spotify:track:6QYthxincEvqQzGkfAOAiK","classification":"electronic indie & chill"}
+{"song":"Broken Barriers - Miguel Migs","uri":"spotify:track:2BWyWLBwIfeEESOamq1X1a","classification":"electronic indie & chill"}
+{"song":"Cinema - Skrillex Remix - Benny Benassi","uri":"spotify:track:02FuO3zDHGFAz0yP7HHGvy","classification":"electronic dance"}
+{"song":"Make It Bun Dem - Skrillex","uri":"spotify:track:6AbVJjzv7thIvmMCuhZrmK","classification":"electronic dance"}
+{"song":"Kyoto (feat. Sirah) - Skrillex","uri":"spotify:track:3FUZpoj9VV0sgc8RqbS3xQ","classification":"electronic dance"}
+{"song":"Bangarang (feat. Sirah) - Skrillex","uri":"spotify:track:6VRhkROS2SZHGlp0pxndbJ","classification":"electronic dance"}
+{"song":"Scary Monsters and Nice Sprites - Skrillex","uri":"spotify:track:4rwpZEcnalkuhPyGkEdhu0","classification":"electronic dance"}
+{"song":"Circles - Mac Miller","uri":"spotify:track:4jXl6VtkFFKIt3ycUQc5LT","classification":"hip hop & rap"}
+{"song":"Lysergic Bliss - of Montreal","uri":"spotify:track:0MjAN5HhvpRiPmxGNrx5oc","classification":"classic & contemporary rock"}
+{"song":"Adios! (feat. The Echocentrics) - Natalia Clavier","uri":"spotify:track:4zx0kpbJB9G1pZBObNJ0JI","classification":"world music"}
+{"song":"We Are The Champions - Remastered 2011 - Queen","uri":"spotify:track:7ccI9cStQbQdystvc6TvxD","classification":"classic & contemporary rock"}
+{"song":"Another One Bites The Dust - Remastered 2011 - Queen","uri":"spotify:track:57JVGBtBLCfHw2muk5416J","classification":"classic & contemporary rock"}
+{"song":"Mama Said - Metallica","uri":"spotify:track:3dWNUqrgkQakv9fj5epwPK","classification":"classic & contemporary rock"}
+{"song":"Buried Alive - Avenged Sevenfold","uri":"spotify:track:4veeNpXDK1YRHMTJ1Cppsg","classification":"classic & contemporary rock"}
+{"song":"Bat Country - Avenged Sevenfold","uri":"spotify:track:3sHH7lklbfpcraDDvYnjo7","classification":"classic & contemporary rock"}
+{"song":"Flow - Mei","uri":"spotify:track:6XI5R0DkJVwd0ij7ebhz3c","classification":"electronic indie & chill"}
+{"song":"Arc-en-ciel - Polo & Pan","uri":"spotify:track:1gWZZyQPb8KxMLS88wCdGR","classification":"french stuff"}
+{"song":"American Boy - Cocoon","uri":"spotify:track:2K8FGZXJrYzdkuWVD4fnl0","classification":"classic & contemporary rock"}
+{"song":"A Sentence Of Sorts In Kongsvinger - of Montreal","uri":"spotify:track:4zxFmAlT6ovJIQKX21nIBF","classification":"electronic indie & chill"}
+{"song":"Paranoid Android - Radiohead","uri":"spotify:track:2nTsKOXIVGDf2iPeVQO2Gm","classification":"classic & contemporary rock"}
+{"song":"The Fool - Gus Dapperton","uri":"spotify:track:0CbDggrLZYlpm3gy92Yaq2","classification":"electronic indie & chill"}
+{"song":"Post Break-Up Sex - The Vaccines","uri":"spotify:track:77GZxme1GMNbbooEH8nHNX","classification":"classic & contemporary rock"}
+{"song":"Notion - Tash Sultana","uri":"spotify:track:1HTqgP13dorct3BltLaB0l","classification":"folk & acoustic"}
+{"song":"Jungle - Tash Sultana","uri":"spotify:track:3SkKLZFgKIY0DKX5Vro5jV","classification":"folk & acoustic"}
+{"song":"Wraith Pinned to the Mist and Other Games - of Montreal","uri":"spotify:track:24HPkbkXJsIFC4eyg63zgQ","classification":"classic & contemporary rock"}
+{"song":"Alone Again Or - 2015 Remaster - Love","uri":"spotify:track:1XuccRABkfUVB4FjSVhjL1","classification":"classic & contemporary rock"}
+{"song":"Gronlandic Edit - of Montreal","uri":"spotify:track:3X8gOyVXP93Tslnz9Bxw24","classification":"electronic indie & chill"}
+{"song":"Johny Says Stay Cool - Babe Rainbow","uri":"spotify:track:079PTrnF2dhq5iUI0xiq2x","classification":"folk & acoustic"}
+{"song":"Lingus - Snarky Puppy","uri":"spotify:track:68d6ZfyMUYURol2y15Ta2Y","classification":"jazz & piano"}
+{"song":"Nocturne - Julian Lage","uri":"spotify:track:7BQVhWw9GR1Up3eKQrYFlI","classification":"jazz & piano"}
+{"song":"Elephant - Tame Impala","uri":"spotify:track:6qZjm61s6u8Ead9sWxCDro","classification":"classic & contemporary rock"}
+{"song":"What Do You Want from Me - Pink Floyd","uri":"spotify:track:3Tsh9pjiJ5cvmuiZALdgVz","classification":"classic & contemporary rock"}
+{"song":"Eggs Aisle - Amindi","uri":"spotify:track:0pWvqS5ib4VKS3tUnnMEZK","classification":"hip hop & rap"}
+{"song":"Heartbreaker - Metronomy","uri":"spotify:track:6JwlAFmKyTPpvvMyJwsONl","classification":"electronic indie & chill"}
+{"song":"Standing Next To Me - Live from Spotify London - The Last Shadow Puppets","uri":"spotify:track:0g2gPYkGXvcqXOHzF0cTQ5","classification":"classic & contemporary rock"}
+{"song":"Losing You - boy pablo","uri":"spotify:track:7mjOxXnZYbGtgjyX0hqaLs","classification":"electronic indie & chill"}
+{"song":"Giorgio by Moroder - Daft Punk","uri":"spotify:track:0oks4FnzhNp5QPTZtoet7c","classification":"electronic indie & chill"}
+{"song":"Instant Crush (feat. Julian Casablancas) - Daft Punk","uri":"spotify:track:2cGxRwrMyEAp8dEbuZaVv6","classification":"electronic indie & chill"}
+{"song":"Dance, Baby! - boy pablo","uri":"spotify:track:5EV4bGHxVN0kHpcAFvgnTt","classification":"electronic indie & chill"}
+{"song":"A Thing For Me - Metronomy","uri":"spotify:track:3aunHlxc4A1qKJ6jRJDqdN","classification":"electronic indie & chill"}
+{"song":"Lets Have A Party - Metronomy","uri":"spotify:track:4brnUA2RAxQbDKonXBsaL0","classification":"electronic indie & chill"}
+{"song":"16 Beat - Metronomy","uri":"spotify:track:31HMn1efM2W0vlgnKFnAZ4","classification":"electronic indie & chill"}
+{"song":"Floated By - Peter Cat Recording Co.","uri":"spotify:track:71ThSwPHBegkD1Cj0G2cji","classification":"folk & acoustic"}
+{"song":"H4ppy - Fakhiree","uri":"spotify:track:160EhwmYemQLEO3cpxNFxD","classification":"electronic indie & chill"}
+{"song":"Agitations tropicales - L'Impératrice","uri":"spotify:track:2La21GqU4fKTQLcfLxTeoz","classification":"french stuff"}
+{"song":"Daddy Issues - The Neighbourhood","uri":"spotify:track:5E30LdtzQTGqRvNd7l6kG5","classification":"classic & contemporary rock"}
+{"song":"You're My Waterloo - The Libertines","uri":"spotify:track:186x1ht8MfZ0rMxQvsEAct","classification":"classic & contemporary rock"}
+{"song":"On Melancholy Hill - Gorillaz","uri":"spotify:track:0q6LuUqGLUiCPP1cbdwFs3","classification":"classic & contemporary rock"}
+{"song":"The Coast - Kazy Lambist","uri":"spotify:track:5KRdmpK5RJrsFekWVoZ3cX","classification":"electronic indie & chill"}
+{"song":"Everything You’ve Come To Expect - The Last Shadow Puppets","uri":"spotify:track:01M9XvRcT8hEOf6NOLBHew","classification":"classic & contemporary rock"}
+{"song":"Zoom Zoom - Polo & Pan","uri":"spotify:track:1L9oEp6R7qFyAlOeyLnOji","classification":"electronic indie & chill"}
+{"song":"Cœur croisé - Polo & Pan","uri":"spotify:track:2hqN3UpBkP8j2UT6yPvBh1","classification":"french stuff"}
+{"song":"All that she wants - Clea Vincent","uri":"spotify:track:1t2DuK4AAnNbaiQl7QKFKA","classification":"french stuff"}
+{"song":"So Tired - Crumb","uri":"spotify:track:0npSmMSYZ6zCfNrjtOjwpE","classification":"electronic indie & chill"}
+{"song":"The Not Real Lake - Loving","uri":"spotify:track:0y5AQnBxRnntXBDiXrQ5sE","classification":"folk & acoustic"}
+{"song":"Lips - The xx","uri":"spotify:track:1onfcprzpSGh2LqrBh17AA","classification":"electronic indie & chill"}
+{"song":"Sink into the Floor - Feng Suave","uri":"spotify:track:4UCiDcv0yO9tNLZbkZeBBA","classification":"folk & acoustic"}
+{"song":"You're Somebody Else - flora cash","uri":"spotify:track:0pdKRp2sUthTPe7RLWpPqQ","classification":"folk & acoustic"}
+{"song":"Lover Is a Day - Cuco","uri":"spotify:track:76tGvMdmFKuiMew33ZNNA9","classification":"folk & acoustic"}
+{"song":"Feeling Lonely - boy pablo","uri":"spotify:track:5uIRujGRZv5t4fGKkUTv4n","classification":"electronic indie & chill"}
+{"song":"You've Got a Friend in Me - Rex Orange County","uri":"spotify:track:446imtjItCGwAmXySZG2FS","classification":"folk & acoustic"}
+{"song":"Sex Murder Party (feat. Jamie Principle & Zebra Katz) - Gorillaz","uri":"spotify:track:0rOP1naZV8zL7ahMNTDXhL","classification":"hip hop & rap"}
+{"song":"Tranz - Poté Remix - Gorillaz","uri":"spotify:track:2KQbQn6jRfCIC3bfkBdzHN","classification":"electronic indie & chill"}
+{"song":"Evil Deeds - Eminem","uri":"spotify:track:3bp0Zuc7LMxgjqsQ6q3E8y","classification":"hip hop & rap"}
+{"song":"Chantaje (feat. Maluma) - Shakira","uri":"spotify:track:6mICuAdrwEjh6Y6lroV2Kg","classification":"hip hop & rap"}
+{"song":"Hips Don't Lie (feat. Wyclef Jean) - Shakira","uri":"spotify:track:3ZFTkvIE7kyPt6Nu3PEa7V","classification":"hip hop & rap"}
+{"song":"The Only One - The Black Keys","uri":"spotify:track:3QHA3SBpz2SDEpI1HuMT0e","classification":"classic & contemporary rock"}
+{"song":"Waiting Room - Rex Orange County","uri":"spotify:track:7LmkhaMCqsjppaYtAYhMaI","classification":"folk & acoustic"}
+{"song":"God Bless The USA - Lee Greenwoood","uri":"spotify:track:54V4Y8lQvhtAPv1MCTOKrs","classification":"classic & contemporary rock"}
+{"song":"I Do - Felix Jaehn","uri":"spotify:track:1GXNmmKtVurcamx6RB2GNN","classification":"electronic indie & chill"}
+{"song":"Fields of Our Home - The Tallest Man On Earth","uri":"spotify:track:34AZLjwtfHA1ALKCYpIwDJ","classification":"folk & acoustic"}
+{"song":"Goodbye - Eddie Vedder","uri":"spotify:track:4hbbW1bGmmTFp5xiXB2iw0","classification":"classic & contemporary rock"}
+{"song":"Summertime - Original Mix - Jamie Jones","uri":"spotify:track:49PubEYjr226JgABczXokZ","classification":"electronic dance"}
+{"song":"El Viaje - Vitalic","uri":"spotify:track:3s55mxuUIQd1m1IaESz5NM","classification":"electronic indie & chill"}
+{"song":"88:88 - Danger","uri":"spotify:track:2oDnWapJDAyzOvCe9MswY3","classification":"electronic indie & chill"}
+{"song":"The Look - Metronomy","uri":"spotify:track:6zfczP87XO2SxWlQtnjFNa","classification":"electronic indie & chill"}
+{"song":"Everything Goes My Way - Metronomy","uri":"spotify:track:67wcAJeaNwGm0fcB4HzzYm","classification":"electronic indie & chill"}
+{"song":"Comme des rames - Klô Pelgag","uri":"spotify:track:1vjAbyhJGbHO4JHNia3VQ4","classification":"french stuff"}
+{"song":"Baby, I'm Bad Weather - Toussaint Morrison","uri":"spotify:track:0To6AYGdFnMjodDnj1hkrl","classification":"hip hop & rap"}
+{"song":"Suck My Kiss - Red Hot Chili Peppers","uri":"spotify:track:0psB5QzGb4653K0uaPgEyh","classification":"classic & contemporary rock"}
+{"song":"Why'd You Only Call Me When You're High? - Arctic Monkeys","uri":"spotify:track:086myS9r57YsLbJpU0TgK9","classification":"classic & contemporary rock"}
+{"song":"Star Treatment - Arctic Monkeys","uri":"spotify:track:0FgNSsaSZTvbLXUumSO8LQ","classification":"classic & contemporary rock"}
+{"song":"Stay - Post Malone","uri":"spotify:track:4H7WNRErSbONkM06blBoGc","classification":"hip hop & rap"}
+{"song":"Stuck on the puzzle - Alex Turner","uri":"spotify:track:7w6QlKAOcNEnqRgrnJvQtr","classification":"classic & contemporary rock"}
+{"song":"It's hard to get around the wind - Alex Turner","uri":"spotify:track:1XYX4JnSULbKGCi5uSjeJy","classification":"folk & acoustic"}
+{"song":"She Looks Like Fun - Arctic Monkeys","uri":"spotify:track:4z6mZWFgBZd07926K61Mi8","classification":"classic & contemporary rock"}
+{"song":"Ultimately - khai dreams","uri":"spotify:track:2dIPAPCa05Hh2Esift0sVX","classification":"electronic indie & chill"}
+{"song":"Back Pocket - Vulfpeck","uri":"spotify:track:1DrlLvlYd1FIjNavRm6NdX","classification":"classic & contemporary rock"}
+{"song":"Goodbyes - Jorja Smith","uri":"spotify:track:4CYBfRX3oEPni9Elqm8Bnt","classification":"hip hop & rap"}
+{"song":"Blue Lights - Jorja Smith","uri":"spotify:track:1It1TxBK3xIQAB4xJkPevn","classification":"hip hop & rap"}
+{"song":"'Til It's Over - Anderson .Paak","uri":"spotify:track:0zYkf4pCiGAhEp5Z3iUkml","classification":"hip hop & rap"}
+{"song":"On My Mind (Jorja Smith X Preditah) - Jorja Smith","uri":"spotify:track:1OxL1FWSEd7QmJoWLRP2NO","classification":"electronic indie & chill"}
+{"song":"Sauce - Manwolves","uri":"spotify:track:0pMechXBXLrMwb1B9KZwqM","classification":"electronic indie & chill"}
+{"song":"Maybe - Marcangelo","uri":"spotify:track:00giNqG034JyB4QFxSwrTc","classification":"electronic indie & chill"}
+{"song":"Spirit You Away - Marcangelo","uri":"spotify:track:0n21SYj7GipbUr3SsAVxmu","classification":"electronic indie & chill"}
+{"song":"Tranz - Gorillaz","uri":"spotify:track:7jYUaoOfdcYgUvkK8NnFfx","classification":"electronic indie & chill"}
+{"song":"The Bay - Metronomy","uri":"spotify:track:2akjLHnHjDGsgqxuf48VYs","classification":"electronic indie & chill"}
+{"song":"My Kind of Woman - Mac DeMarco","uri":"spotify:track:2OFrAsP5Vrcb0DtsPNsm54","classification":"folk & acoustic"}
+{"song":"Ghost Ship - Blur","uri":"spotify:track:61JDaStnXY3vbaEjliB5WA","classification":"classic & contemporary rock"}
+{"song":"Castles Made of Sand - 2006 Remaster - Red Hot Chili Peppers","uri":"spotify:track:7mUNyl16vX2OrKqMAuZJF9","classification":"classic & contemporary rock"}
+{"song":"White Flag (feat. Bashy, Kano and the National Orchestra for Arabic Music) - Gorillaz","uri":"spotify:track:3famfyGuWw5QFcVO5Xk1uW","classification":"world music"}
+{"song":"This Time Tomorrow (Remastered) - The Kinks","uri":"spotify:track:3krusk6olZ8LxO4xDERdkT","classification":"classic & contemporary rock"}
+{"song":"Strangers (Remastered) - The Kinks","uri":"spotify:track:7Bn7blCyMlPaMIiSFzQjSp","classification":"classic & contemporary rock"}
+{"song":"Africa - TOTO","uri":"spotify:track:2374M0fQpWi3dLnB54qaLX","classification":"classic & contemporary rock"}
+{"song":"Fire Coming out of the Monkey's Head - Gorillaz","uri":"spotify:track:1S9tfxdFr4TqoqA14gnKj3","classification":"classic & contemporary rock"}
+{"song":"Hold Me Down - Daniel Caesar","uri":"spotify:track:1Mza2sr6tPhy6jjI3HB9fW","classification":"folk & acoustic"}
+{"song":"Me and My Goose - Live - Arlo Guthrie","uri":"spotify:track:3PR8ZwTz1gUYYF53912cTG","classification":"folk & acoustic"}
+{"song":"Turn off the Lights (feat. Alexis Roberts) - Chris Lake","uri":"spotify:track:29vo9RUjxgZWXWGTpD8f4m","classification":"electronic dance"}
+{"song":"September - The Shins","uri":"spotify:track:5X1cvJi4Ja7zEYvNwA0LXZ","classification":"classic & contemporary rock"}
+{"song":"Puttin' on the Ritz 2017 - Jazzy Radio Mix - Taco","uri":"spotify:track:0ssu4yG0UjbfAZMjAX7oyE","classification":"jazz & piano"}
+{"song":"New York, I Love You but You're Bringing Me Down - LCD Soundsystem","uri":"spotify:track:5rAff9XfcWx7rguN3t0fkW","classification":"classic & contemporary rock"}
+{"song":"Losing All Sense - Grizzly Bear","uri":"spotify:track:2ZRvcRcKdwQBjTAqj2XNJN","classification":"classic & contemporary rock"}
+{"song":"Hopopono - GoGo Penguin","uri":"spotify:track:1hW0VwYPGPzkz2CIXVIY78","classification":"jazz & piano"}
+{"song":"Little White Boat - Sissi Rada","uri":"spotify:track:0Q7spk0Q7shj2iqC5tPS6d","classification":"electronic indie & chill"}
+{"song":"Sunday - Sissi Rada","uri":"spotify:track:0rES2i6ygt2EUuX3tEwJnW","classification":"electronic indie & chill"}
+{"song":"Si maman si - Remasterisé en 2004 - France Gall","uri":"spotify:track:6NvKOWV0UnBPAaO76D4JxS","classification":"french stuff"}
+{"song":"Laisse tomber les filles - France Gall","uri":"spotify:track:62dvWoC539kMofQkWxZrai","classification":"french stuff"}
+{"song":"Stacy's Mom - Fountains Of Wayne","uri":"spotify:track:27L8sESb3KR79asDUBu8nW","classification":"classic & contemporary rock"}
+{"song":"Sunflower - Rex Orange County","uri":"spotify:track:4EpZ4eYuZOwPSSwyqpdHnJ","classification":"folk & acoustic"}
+{"song":"K. - Cigarettes After Sex","uri":"spotify:track:7LX4aXtvImhdgUHQBlo8Kp","classification":"folk & acoustic"}
+{"song":"99 - Elliot Moss","uri":"spotify:track:6pDV2eXUwq1PP9SCwqOivp","classification":"electronic indie & chill"}
+{"song":"Slip - Elliot Moss","uri":"spotify:track:0OY2KqGxYAUizKfjwsPrbp","classification":"electronic indie & chill"}
+{"song":"Too Long / Steam Machine - Daft Punk","uri":"spotify:track:3n4ow4XGzwSIPxA3JHLF9p","classification":"electronic dance"}
+{"song":"Out on the Weekend - 2009 Remaster - Neil Young","uri":"spotify:track:7DqktFsRwJa0XDFPMjV1xJ","classification":"classic & contemporary rock"}
+{"song":"A Song About Being Sad - Rex Orange County","uri":"spotify:track:6Jl3ZOX6MUOlyoUc721bsX","classification":"folk & acoustic"}
+{"song":"Television / So Far So Good - Rex Orange County","uri":"spotify:track:5OUTFH5acycdnf8OVo21Gv","classification":"folk & acoustic"}
+{"song":"Best Friend - Rex Orange County","uri":"spotify:track:47Bg6IrMed1GPbxRgwH2aC","classification":"folk & acoustic"}
+{"song":"Twist And Shout - Remastered 2009 - The Beatles","uri":"spotify:track:5ZBeML7Lf3FMEVviTyvi8l","classification":"classic & contemporary rock"}
+{"song":"Lady Madonna - Remastered 2015 - The Beatles","uri":"spotify:track:1raiIrqaqRAqZmQWZlLuBd","classification":"classic & contemporary rock"}
+{"song":"Class System - Handsome Boy Modeling School","uri":"spotify:track:2XduHVxYVaBwuCjm9tfOGa","classification":"hip hop & rap"}
+{"song":"Evil - Interpol","uri":"spotify:track:6B182GP3TvEfmgUoIMVUSJ","classification":"classic & contemporary rock"}
+{"song":"Sinnerman - Nina Simone","uri":"spotify:track:75lnIEQ3aQmKPES7V9UWA1","classification":"jazz & piano"}
+{"song":"Feeling Good - Muse","uri":"spotify:track:5Yj4AP0JGQWierBFKdKVyS","classification":"classic & contemporary rock"}
+{"song":"Mambo - Tropkillaz","uri":"spotify:track:3ZM11gWnvr8Iiw4glqUJId","classification":"electronic dance"}
+{"song":"Subirusdoistiozin - Criolo","uri":"spotify:track:1LfMFAeyWlG7eNo6upAaqc","classification":"hip hop & rap"}
+{"song":"Não Existe Amor em SP - Criolo","uri":"spotify:track:5OMxscxd7PIu8YfRmkXH45","classification":"world music"}
+{"song":"On Hold - The xx","uri":"spotify:track:5CPqOpKSk0QcJ3dGdaWcRB","classification":"electronic indie & chill"}
+{"song":"I Dare You - The xx","uri":"spotify:track:044qU7kwVZaDwzWnRsmVVL","classification":"electronic indie & chill"}
+{"song":"Forgiveness - Made in Heights","uri":"spotify:track:1gUmW7K8SnyidwbqbaGMks","classification":"electronic indie & chill"}
+{"song":"Puzzle Pieces - Saint Motel","uri":"spotify:track:2Zd9awmsA8KuF65snhz7YH","classification":"classic & contemporary rock"}
+{"song":"Australia - The Shins","uri":"spotify:track:1JQiZTI59vPKwXHaU0md7I","classification":"classic & contemporary rock"}
+{"song":"Madness - Muse","uri":"spotify:track:0c4IEciLCDdXEhhKxj4ThA","classification":"classic & contemporary rock"}
+{"song":"For A Fool - The Shins","uri":"spotify:track:4c7KZ53NlI37sWXbaJhPOq","classification":"classic & contemporary rock"}
+{"song":"New Person, Same Old Mistakes - Tame Impala","uri":"spotify:track:52ojopYMUzeNcudsoz7O9D","classification":"classic & contemporary rock"}
+{"song":"Disciples - Tame Impala","uri":"spotify:track:2gNfxysfBRfl9Lvi9T3v6R","classification":"classic & contemporary rock"}
+{"song":"Yes I'm Changing - Tame Impala","uri":"spotify:track:0xtIp0lgccN85GfGOekS5L","classification":"classic & contemporary rock"}
+{"song":"New Slang - The Shins","uri":"spotify:track:5oUV6yWdDM0R9Q2CizRhIt","classification":"classic & contemporary rock"}
+{"song":"King's Dead (with Kendrick Lamar, Future & James Blake) - Jay Rock","uri":"spotify:track:51rXHuKN8Loc4sUlKPODgH","classification":"hip hop & rap"}
+{"song":"All My Love - Remaster - Led Zeppelin","uri":"spotify:track:5UdShl12E6eHEgS8lQ1bPr","classification":"classic & contemporary rock"}
+{"song":"Suck It and See - Arctic Monkeys","uri":"spotify:track:3UZfvX4ky5C4mblUIR0LE1","classification":"classic & contemporary rock"}
+{"song":"Love is a Laserquest - Arctic Monkeys","uri":"spotify:track:7wsEZh68qX7jY0dziXMb0H","classification":"classic & contemporary rock"}
+{"song":"The End of the World - Skeeter Davis","uri":"spotify:track:5DTOOkooKFUvWj1XQTFa09","classification":"classic & contemporary rock"}
+{"song":"Fly Me To The Moon (In Other Words) - Julie London","uri":"spotify:track:50EWRyvOrzRuORFESRl9oW","classification":"jazz & piano"}
+{"song":"Shahdaroba - Roy Orbison","uri":"spotify:track:418HXJI1ywBfDvUrlOTSAi","classification":"classic & contemporary rock"}
+{"song":"Bill Murray - Gorillaz","uri":"spotify:track:3D9UwaEzLRkXfruJoSiVX7","classification":"classic & contemporary rock"}
+{"song":"To Binge (feat. Little Dragon) - Gorillaz","uri":"spotify:track:1dvOwoHwZB9SwvRw2Gv3nz","classification":"electronic indie & chill"}
+{"song":"Submission (feat. Danny Brown & Kelela) - Gorillaz","uri":"spotify:track:2W4yTO3qHdqyvbz2UxfIPh","classification":"hip hop & rap"}
+{"song":"Busted and Blue - Gorillaz","uri":"spotify:track:04zxGiXcmNQ0m9oDXtwo18","classification":"electronic indie & chill"}
+{"song":"Chanel - Frank Ocean","uri":"spotify:track:6Nle9hKrkL1wQpwNfEkxjh","classification":"hip hop & rap"}
+{"song":"Piazza, New York Catcher - Belle and Sebastian","uri":"spotify:track:0WrRlCHmD7LzpJa8chDz2h","classification":"classic & contemporary rock"}
+{"song":"I'm On Fire - Album Mix - Stateless","uri":"spotify:track:7JAIXPZu4rrdBUyt3ofJok","classification":"electronic indie & chill"}
+{"song":"Congratulations - MGMT","uri":"spotify:track:6kblAEj0T0312fv5QWsXzo","classification":"classic & contemporary rock"}
+{"song":"Parklife - 2012 Remaster - Blur","uri":"spotify:track:7FSzJQV6thyoQptFCUTV9c","classification":"classic & contemporary rock"}
+{"song":"Brazil - Declan McKenna","uri":"spotify:track:5ftdTvmQjjsL23t7jxADfI","classification":"classic & contemporary rock"}
+{"song":"Come Closer - Miles Kane","uri":"spotify:track:20uVZbYFKshjrdDHcVy9w9","classification":"classic & contemporary rock"}
+{"song":"Port Of Morrow - The Shins","uri":"spotify:track:3Try68sPCVOlmX0B5o57ZT","classification":"classic & contemporary rock"}
+{"song":"One More Cup of Coffee - Recorded at Spotify Studios NYC - GROUPLOVE","uri":"spotify:track:1XLJxAcTdnMIeQpsvdfkSv","classification":"folk & acoustic"}
+{"song":"Beverly Hills - Weezer","uri":"spotify:track:1yKu2MhpwzDXXH2tzG6xoa","classification":"classic & contemporary rock"}
+{"song":"Buddy Holly - Weezer","uri":"spotify:track:7GptbanebPZYkLPvjNfd6m","classification":"classic & contemporary rock"}
+{"song":"Feels Like Summer - Weezer","uri":"spotify:track:2jz1bw1p0WQj0PDnVDP0uY","classification":"classic & contemporary rock"}
+{"song":"Say It Ain't So - Weezer","uri":"spotify:track:4YPhn26bIFm2KUkL1VLzQG","classification":"classic & contemporary rock"}
+{"song":"Island In The Sun - Weezer","uri":"spotify:track:2MLHyLy5z5l5YRp7momlgw","classification":"classic & contemporary rock"}
+{"song":"Burndt Jamb - Weezer","uri":"spotify:track:1ytYTPuKbW0NIXb2kgmSVq","classification":"classic & contemporary rock"}
+{"song":"Wild World - Yusuf / Cat Stevens","uri":"spotify:track:6Xz7FeyE8HTP90HecgHV57","classification":"classic & contemporary rock"}
+{"song":"Folsom Prison Blues - Live - Johnny Cash","uri":"spotify:track:19NKQh7UsGP0dazET759jN","classification":"classic & contemporary rock"}
+{"song":"Creep in a T-Shirt - Portugal. The Man","uri":"spotify:track:1lpN3qsugqtMR49xwzHYnt","classification":"classic & contemporary rock"}
+{"song":"Saturnz Barz (feat. Popcaan) - Gorillaz","uri":"spotify:track:7l9CE3wmEGOUYw1j4ETjnL","classification":"electronic indie & chill"}
+{"song":"Dirty Harry - Gorillaz","uri":"spotify:track:2bfGNzdiRa1jXZRdfssSzR","classification":"classic & contemporary rock"}
+{"song":"Ascension (feat. Vince Staples) - Gorillaz","uri":"spotify:track:2bBMODHVTXGwE2aZYfbgCt","classification":"hip hop & rap"}
+{"song":"Andromeda (feat. DRAM) - Gorillaz","uri":"spotify:track:2C0KFbb4v9CNWR5c9jWcKC","classification":"electronic indie & chill"}
+{"song":"The Beast In Me - Johnny Cash","uri":"spotify:track:0Q1ToLrVgXnfUcrNRW3pv1","classification":"classic & contemporary rock"}
+{"song":"Black Sun - Death Cab for Cutie","uri":"spotify:track:59FC22eN2Syt9bbv2d6393","classification":"classic & contemporary rock"}
+{"song":"Your Mother Should Know - Remastered 2009 - The Beatles","uri":"spotify:track:1dxbAIfCASqv6jix2R1Taj","classification":"classic & contemporary rock"}
+{"song":"Blue Jay Way - Remastered 2009 - The Beatles","uri":"spotify:track:0QIX9BS0AUCQcHYvyrsMkV","classification":"classic & contemporary rock"}
+{"song":"Soul Meets Body - Death Cab for Cutie","uri":"spotify:track:6Wuv7MrhesuDsuGv8vcrOd","classification":"classic & contemporary rock"}
+{"song":"Passenger Seat - Death Cab for Cutie","uri":"spotify:track:42raDMAj1FDvMtNxcrExux","classification":"classic & contemporary rock"}
+{"song":"This Town (feat. Sasha Alex Sloan) - Kygo","uri":"spotify:track:4aSfgWmRa9KsISD4Jmx7QB","classification":"electronic indie & chill"}
+{"song":"Sewn And Silent - Karnivool","uri":"spotify:track:1k2aUJN8OZA4oYEPwizsWp","classification":"classic & contemporary rock"}
+{"song":"The Moment - Tame Impala","uri":"spotify:track:1UYj8qTWjneZJDVjUMwMub","classification":"classic & contemporary rock"}
+{"song":"Eventually - Tame Impala","uri":"spotify:track:5M4yti0QxgqJieUYaEXcpw","classification":"classic & contemporary rock"}
+{"song":"Tumblr Girls (feat. Christoph Andersson) - G-Eazy","uri":"spotify:track:4Fv6wNYUixnYkj3Dgfrls8","classification":"hip hop & rap"}
+{"song":"Never Be the Same - Camila Cabello","uri":"spotify:track:6VpQdig9pdpTSIFItgkJV5","classification":"classic & contemporary rock"}
+{"song":"Almost Famous - G-Eazy","uri":"spotify:track:3Uw0h4GVLVjoUEToSWe0gY","classification":"hip hop & rap"}
+{"song":"The General - DISPATCH","uri":"spotify:track:6n6EXIwLtNwe4u4CFzENYm","classification":"classic & contemporary rock"}
+{"song":"New Rules - Dua Lipa","uri":"spotify:track:6tF92PMv01Ug9Dh8Rmy6nH","classification":"electronic dance"}
+{"song":"Les ferrofluides-fleurs - Klô Pelgag","uri":"spotify:track:2gWRolXAwjrbuCYyy0d8Pm","classification":"french stuff"}
+{"song":"Séquences - L'Impératrice","uri":"spotify:track:6QSdr1AEv7O9ieJWRPi1X0","classification":"french stuff"}
+{"song":"This Will Be Our Year - The Zombies","uri":"spotify:track:02KpkaZbiutsR0ucxce4Sh","classification":"classic & contemporary rock"}
+{"song":"Porpoise Song - The Monkees","uri":"spotify:track:02tiurLpJcKS0aFVsyvKz3","classification":"classic & contemporary rock"}
+{"song":"Prism #1 - Stateless","uri":"spotify:track:1beYOvIhDdqSz0XB21TtxY","classification":"electronic indie & chill"}
+{"song":"Bloodstream - Stateless","uri":"spotify:track:03WuFsWpkytZ6c5iidS8Im","classification":"electronic indie & chill"}
+{"song":"Syria - Original - Unders","uri":"spotify:track:3rkge8kur9i26zpByFKvBu","classification":"world music"}
+{"song":"You Really Got Me - Mono Mix - The Kinks","uri":"spotify:track:00xR9dHhuaNznqB4FSzOlr","classification":"classic & contemporary rock"}
+{"song":"Christmas Waltz - Nellie McKay","uri":"spotify:track:5FmmQX6JnwRbNuPOauzJoS","classification":"folk & acoustic"}
+{"song":"Hideaway - Kiesza","uri":"spotify:track:0c6xIDDpzE81m2q797ordA","classification":"electronic dance"}
+{"song":"How Deep Is Your Love - Calvin Harris","uri":"spotify:track:22mek4IiqubGD9ctzxc69s","classification":"electronic dance"}
+{"song":"Oh! Darling - Remastered 2009 - The Beatles","uri":"spotify:track:2mxByJWOajjiVsLWjNXvDJ","classification":"classic & contemporary rock"}
+{"song":"Chatoyant (Beauty Bass) - Made in Heights","uri":"spotify:track:088RJyNmDEGdIVdPwBeNy5","classification":"electronic indie & chill"}
+{"song":"Skylark Interabang?! - Made in Heights","uri":"spotify:track:3L9dCXAytMzOP5Ykfh0Sig","classification":"electronic indie & chill"}
+{"song":"Viices - Made in Heights","uri":"spotify:track:42twUZKT8EXrlCn86ivbr0","classification":"electronic indie & chill"}
+{"song":"Marguerite - Made in Heights","uri":"spotify:track:57YUn6tMTd3jZGaVW8BimM","classification":"electronic indie & chill"}
+{"song":"Holla Mears - Made in Heights","uri":"spotify:track:6PfRmTAEhmjjcCbAW4AFDc","classification":"electronic indie & chill"}
+{"song":"Amaranthine - Made in Heights","uri":"spotify:track:6w8FRlTN4qLe8Y9nGOSVdr","classification":"electronic indie & chill"}
+{"song":"All The Places - Made in Heights","uri":"spotify:track:7cSHrQWGkkqGXAG63bp95U","classification":"electronic indie & chill"}
+{"song":"Happy Little Pill - Troye Sivan","uri":"spotify:track:7aqZOG8sgW8vDQjyfSNpRj","classification":"electronic indie & chill"}
+{"song":"Tranquila - J Balvin","uri":"spotify:track:2biG396b4oY4gHJJRtjUIo","classification":"hip hop & rap"}
+{"song":"Somebody Else - The 1975","uri":"spotify:track:5hc71nKsUgtwQ3z52KEKQk","classification":"classic & contemporary rock"}
+{"song":"Wo!! - Olamide","uri":"spotify:track:4mzdAlhng0ieAaHNSB4tio","classification":"hip hop & rap"}
+{"song":"Scotty Doesn't Know - Lustra","uri":"spotify:track:1LkoYGxmYpO6QSEvY5C0Zl","classification":"classic & contemporary rock"}
+{"song":"Castles Made of Sand - Jimi Hendrix","uri":"spotify:track:3qebSLgUwaEqbwCM5sj5Kh","classification":"classic & contemporary rock"}
+{"song":"Blue Ridge Mountains - Fleet Foxes","uri":"spotify:track:6T8qnBbc2rxlWLiweD1e5M","classification":"folk & acoustic"}
+{"song":"Romeo and Juliet - Dire Straits","uri":"spotify:track:57MflfPN3ObQQAQtPUp0WF","classification":"classic & contemporary rock"}
+{"song":"A New Life - Jim James","uri":"spotify:track:4o0Bb9Gz1OKlhLlgx9FzWC","classification":"folk & acoustic"}
+{"song":"Amy - Ryan Adams","uri":"spotify:track:7qzqcfLHBAUherRXgW4Ul7","classification":"classic & contemporary rock"}
+{"song":"Exit Music (For a Film) - Radiohead","uri":"spotify:track:4Na0siMtWOW9pJoWJ1Ponv","classification":"classic & contemporary rock"}
+{"song":"Drive My Car - Remastered 2009 - The Beatles","uri":"spotify:track:06ypiqmILMdVeaiErMFA91","classification":"classic & contemporary rock"}
+{"song":"Wait - Remastered 2009 - The Beatles","uri":"spotify:track:0CGbof9amBnsNlRhZ8IY2H","classification":"classic & contemporary rock"}
+{"song":"What Goes On - Remastered 2009 - The Beatles","uri":"spotify:track:19QXdPRZFHI5kNK3tN8Mh7","classification":"classic & contemporary rock"}
+{"song":"Norwegian Wood (This Bird Has Flown) - Remastered 2009 - The Beatles","uri":"spotify:track:1H7gMYGykdtwZOV6s1N0by","classification":"classic & contemporary rock"}
+{"song":"In My Life - Remastered 2009 - The Beatles","uri":"spotify:track:3KfbEIOC7YIv90FIfNSZpo","classification":"classic & contemporary rock"}
+{"song":"The Word - Remastered 2009 - The Beatles","uri":"spotify:track:4GBaPHvAyj4V2jeobD9tsy","classification":"classic & contemporary rock"}
+{"song":"You Won't See Me - Remastered 2009 - The Beatles","uri":"spotify:track:4LLBKnNCrSRrSjSTuiwjE9","classification":"classic & contemporary rock"}
+{"song":"Run For Your Life - Remastered 2009 - The Beatles","uri":"spotify:track:4gUYV3ktbaOeAK5KrXMWV5","classification":"classic & contemporary rock"}
+{"song":"Michelle - Remastered 2009 - The Beatles","uri":"spotify:track:5By7Pzgl6TMuVJG168VWzS","classification":"classic & contemporary rock"}
+{"song":"I'm Looking Through You - Remastered 2009 - The Beatles","uri":"spotify:track:5E3BVY66TEDexFutOO5GeS","classification":"classic & contemporary rock"}
+{"song":"Nowhere Man - Remastered 2009 - The Beatles","uri":"spotify:track:5SUlhldQJtOhUr2GzH5RI7","classification":"classic & contemporary rock"}
+{"song":"Think For Yourself - Remastered 2009 - The Beatles","uri":"spotify:track:64bKVrkaXQAKx04dLHqCNz","classification":"classic & contemporary rock"}
+{"song":"Girl - Remastered 2009 - The Beatles","uri":"spotify:track:6tQvjqDIK9GXWIC6mejms8","classification":"classic & contemporary rock"}
+{"song":"If I Needed Someone - Remastered 2009 - The Beatles","uri":"spotify:track:7C6hdDIz90Uf5YmdZnYbJJ","classification":"classic & contemporary rock"}
+{"song":"Master Hunter - Laura Marling","uri":"spotify:track:0LvWEp53W9CqW2SesSj7CT","classification":"folk & acoustic"}
+{"song":"Little Love Caster - Laura Marling","uri":"spotify:track:0s5qV9SXDd27bo2WECrvjC","classification":"folk & acoustic"}
+{"song":"I Was An Eagle - Laura Marling","uri":"spotify:track:12ijs3jaNCRZOAwPBrJYwd","classification":"folk & acoustic"}
+{"song":"Devil's Resting Place - Laura Marling","uri":"spotify:track:2X2UW3HyAvEcYGgt5HaTTr","classification":"folk & acoustic"}
+{"song":"Interlude - Laura Marling","uri":"spotify:track:34SPQd62IewrawNPmnO15f","classification":"folk & acoustic"}
+{"song":"When Were You Happy? (And How Long Has That Been) - Laura Marling","uri":"spotify:track:3U4lZaxSTz0X6Eq3R7v3xk","classification":"folk & acoustic"}
+{"song":"Take The Night Off - Laura Marling","uri":"spotify:track:4457PrZqqLZzjqCZZfziHQ","classification":"folk & acoustic"}
+{"song":"Pray For Me - Laura Marling","uri":"spotify:track:487rNQbI6kO88DeuBjk14v","classification":"folk & acoustic"}
+{"song":"Once - Laura Marling","uri":"spotify:track:4L6T3CIYcbVoWQQX2ogkJB","classification":"folk & acoustic"}
+{"song":"Love Be Brave - Laura Marling","uri":"spotify:track:4x06QJIyqNXV5BAHdJx7Mh","classification":"folk & acoustic"}
+{"song":"You Know - Laura Marling","uri":"spotify:track:57R2PuxXCdlmoTzqHGAmnF","classification":"folk & acoustic"}
+{"song":"Where Can I Go? - Laura Marling","uri":"spotify:track:6fekSLRxiyhZUjJ0q7fiQT","classification":"folk & acoustic"}
+{"song":"Little Bird - Laura Marling","uri":"spotify:track:6lD067n3ufAMxjj5ifsAaP","classification":"folk & acoustic"}
+{"song":"Saved These Words - Laura Marling","uri":"spotify:track:7MiHQzZcjsMbDdO8xfFsXx","classification":"folk & acoustic"}
+{"song":"Breathe - Laura Marling","uri":"spotify:track:7iLTbx6xqJZF3ZcAWNPC8q","classification":"folk & acoustic"}
+{"song":"Undine - Laura Marling","uri":"spotify:track:7zMggrJwfdr4nU2fNlQBWg","classification":"folk & acoustic"}
+{"song":"Rinse & Repeat (feat. Kah-Lo) - Radio Edit - Riton","uri":"spotify:track:1CCEmbH6GvcvdxDNSfpQYM","classification":"electronic dance"}
+{"song":"House Work - Jax Jones","uri":"spotify:track:6VcVJ7YddkP6elt9Ym8c50","classification":"electronic dance"}
+{"song":"Planets, Spaceships - Original Mix - Jamie Jones","uri":"spotify:track:25SXZeNsLLM9MYCpKtbAlB","classification":"electronic dance"}
+{"song":"La Vie En Rose - Daniela Andrade","uri":"spotify:track:0VxocBntP1XTZRsR9ZURPS","classification":"french stuff"}
+{"song":"Hurricane - Bob Dylan","uri":"spotify:track:1lqMLr9Wj7SM2F9AikGcxN","classification":"classic & contemporary rock"}
+{"song":"All These Things I Hate (Revolve Around Me) - Bullet For My Valentine","uri":"spotify:track:0CbESIyx34Usxoy7emUEBd","classification":"classic & contemporary rock"}
+{"song":"Turbo Swag - Acoustic - Attack Attack!","uri":"spotify:track:5s4cELCehEcdt1IbQ9bTpZ","classification":"folk & acoustic"}
+{"song":"Canopée - Polo & Pan","uri":"spotify:track:3ty9szH0lbnQe3UEbr96q5","classification":"electronic indie & chill"}
+{"song":"Nana - Polo & Pan","uri":"spotify:track:0GMHxC1bqZaw9Fbbm78LpO","classification":"electronic indie & chill"}
+{"song":"Deep Fried Pizza - Shobaleader One","uri":"spotify:track:3KzklJONkSv5Dw2R4R4YrD","classification":"electronic indie & chill"}
+{"song":"China Doll - 2013 Remaster - Grateful Dead","uri":"spotify:track:2tKpTJtHZPd74oLNx9RTlZ","classification":"classic & contemporary rock"}
+{"song":"Black Peter - 2013 Remaster - Grateful Dead","uri":"spotify:track:35BMgcBnOeIsuzssqEAyDh","classification":"classic & contemporary rock"}
+{"song":"Eyes of the World - 2013 Remaster - Grateful Dead","uri":"spotify:track:5s3EobyplwBxtmZL5LK00y","classification":"classic & contemporary rock"}
+{"song":"Stella Blue - 2013 Remaster - Grateful Dead","uri":"spotify:track:59IskS6LmBbA1lGlYW5VGj","classification":"classic & contemporary rock"}
+{"song":"Cruise - MXXWLL","uri":"spotify:track:789zlAnlugqCLPXogLGo8w","classification":"electronic indie & chill"}
+{"song":"Robbers - The 1975","uri":"spotify:track:06cCziAHtDg6pcsidZHu03","classification":"classic & contemporary rock"}
+{"song":"So Good at Being in Trouble - Unknown Mortal Orchestra","uri":"spotify:track:0LPODKihyn7XCxFevkE3KY","classification":"electronic indie & chill"}
+{"song":"m.A.A.d city - Kendrick Lamar","uri":"spotify:track:2cDCojn6uIBM6A5xTAbl3H","classification":"hip hop & rap"}
+{"song":"Stolen Dance - Milky Chance","uri":"spotify:track:6vECYJHxYmm3Ydt3fF01pE","classification":"electronic indie & chill"}
+{"song":"The Less I Know The Better - Tame Impala","uri":"spotify:track:6K4t31amVTZDgR3sKmwUJJ","classification":"classic & contemporary rock"}
+{"song":"Love for a Child - Jason Mraz","uri":"spotify:track:5OJ5utPWQbBRmGOZ6HpxgO","classification":"folk & acoustic"}
+{"song":"Butterfly - Jason Mraz","uri":"spotify:track:7rrmHHc1kY9vkIZnXrcH7T","classification":"folk & acoustic"}
+{"song":"I Forget Where We Were - Ben Howard","uri":"spotify:track:7gYwIAHB6VxzLJFSZMMv8i","classification":"folk & acoustic"}
+{"song":"Mathereal - Ruu Campbell","uri":"spotify:track:5S5jpb1EgZ6cElcd3aLjC1","classification":"folk & acoustic"}
+{"song":"Sua Cara - Major Lazer","uri":"spotify:track:66lA84zzlj88DdcnegOeCn","classification":"electronic dance"}
+{"song":"Multi-Love - Unknown Mortal Orchestra","uri":"spotify:track:0PEXp5yk0sx9dJ8JzwvjJb","classification":"electronic indie & chill"}
+{"song":"Fantasy - Alina Baraz","uri":"spotify:track:17YuXw2ScwLLL1sUrRKhoW","classification":"electronic indie & chill"}
+{"song":"Pleader - alt-J","uri":"spotify:track:499EPDyFWTfEwxSEAHbc8k","classification":"electronic indie & chill"}
+{"song":"3WW - alt-J","uri":"spotify:track:5wYLW17fs9JOolzR2W3AmM","classification":"classic & contemporary rock"}
+{"song":"Hit Me Like That Snare - alt-J","uri":"spotify:track:65bDyccq2aZSdT2woykFkw","classification":"electronic indie & chill"}
+{"song":"Last Year - alt-J","uri":"spotify:track:6SX2KWmIbh9Zqhx2VSZaOY","classification":"classic & contemporary rock"}
+{"song":"House of the Rising Sun - alt-J","uri":"spotify:track:6TgDGChKp7J4F2mhVHkzYc","classification":"classic & contemporary rock"}
+{"song":"Deadcrush - alt-J","uri":"spotify:track:7gn0MfkV4ZuMkqbPlmhIlx","classification":"electronic indie & chill"}
+{"song":"Roses - wüsh","uri":"spotify:track:3rDtYwyfZNfTfxjyivntg5","classification":"electronic indie & chill"}
+{"song":"Blues Run The Game - Laura Marling","uri":"spotify:track:3vHZogGuw36HLk1BeGLhZq","classification":"folk & acoustic"}
+{"song":"Going Up The Country - Canned Heat","uri":"spotify:track:57460SJgSpCXaRJ9YIYHxy","classification":"classic & contemporary rock"}
+{"song":"On The Road Again - Canned Heat","uri":"spotify:track:7E2u1onzVWsec2Qp7Xrb4A","classification":"classic & contemporary rock"}
+{"song":"Turn! Turn! Turn! - The Byrds","uri":"spotify:track:2BFQjL5Fj76qy5kn8UmWJo","classification":"classic & contemporary rock"}
+{"song":"Aftermath - Caravan Palace","uri":"spotify:track:6JwSn8emiAX32twCTYHBFt","classification":"electronic indie & chill"}
+{"song":"Wonderland - Caravan Palace","uri":"spotify:track:16XwQvqSxrEdpx7adI4Vik","classification":"electronic indie & chill"}
+{"song":"Lone Digger - Caravan Palace","uri":"spotify:track:1Oaq4rq7EBVUiXGh7yxuYL","classification":"electronic indie & chill"}
+{"song":"River Flows In You - Original - Yiruma","uri":"spotify:track:47ZWr1Nb0PUgmKgyg5JkgO","classification":"jazz & piano"}
+{"song":"Playground Love (with Gordon Tracks) - Air","uri":"spotify:track:0qSkffeyk2FEIumqDgsYP1","classification":"electronic indie & chill"}
+{"song":"XXX. FEAT. U2. - Kendrick Lamar","uri":"spotify:track:4iYRa2btalAzPZoSYfROqF","classification":"hip hop & rap"}
+{"song":"FEEL. - Kendrick Lamar","uri":"spotify:track:2LTlO3NuNVN70lp2ZbVswF","classification":"hip hop & rap"}
+{"song":"LUST. - Kendrick Lamar","uri":"spotify:track:06FCvd7rrRcF3DdvWH5Isp","classification":"hip hop & rap"}
+{"song":"Scream (Funk My Life Up) - Paolo Nutini","uri":"spotify:track:56oQl8ABVlcZlJN43wooTd","classification":"classic & contemporary rock"}
+{"song":"Welcome to the Family - Avenged Sevenfold","uri":"spotify:track:0jqblvsI9LBY4irmLVqqEO","classification":"classic & contemporary rock"}
+{"song":"Witchcraft - Pendulum","uri":"spotify:track:4Y2glvLjQGOb4dXnwm1hQf","classification":"electronic indie & chill"}
+{"song":"Pinball Wizard - The Who","uri":"spotify:track:60C8zGPTdAAmDshHnMuyfc","classification":"classic & contemporary rock"}
+{"song":"Hit Me Like a Drum - Parov Stelar","uri":"spotify:track:38qT775mKjrVXEP4q8y7Gc","classification":"electronic indie & chill"}
+{"song":"Step Two - Parov Stelar","uri":"spotify:track:5onbkg2iHznFhFcAf9DgeX","classification":"electronic indie & chill"}
+{"song":"Rock It for Me - Caravan Palace","uri":"spotify:track:7gHkDNieGzYmyuC7E1Xbxw","classification":"electronic indie & chill"}
+{"song":"FEAR. - Kendrick Lamar","uri":"spotify:track:23luOrEVHMfoX0AhfbQuS6","classification":"hip hop & rap"}
+{"song":"PRIDE. - Kendrick Lamar","uri":"spotify:track:6IZvVAP7VPPnsGX6bvgkqg","classification":"hip hop & rap"}
+{"song":"Fade Into The Sun - Radio Edit - Lulleaux","uri":"spotify:track:4K8T6eFXebu870puX1csKe","classification":"electronic indie & chill"}
+{"song":"Inside-Looking Out - The Animals","uri":"spotify:track:188xtC60TeSCXsN6ePYnWD","classification":"classic & contemporary rock"}
+{"song":"Monterey - Eric Burdon & the Animals","uri":"spotify:track:1MswmOoqLDy3sBhbciwJQQ","classification":"classic & contemporary rock"}
+{"song":"A Girl Named Sandoz - Eric Burdon & the Animals","uri":"spotify:track:1Nql8SpRJ0hhaO8OrkuIRw","classification":"classic & contemporary rock"}
+{"song":"Don't Bring Me Down - The Animals","uri":"spotify:track:1ueOZZgHAQgZzNIXgoofCn","classification":"classic & contemporary rock"}
+{"song":"Hey Gyp - The Animals","uri":"spotify:track:2j1ZUiyD1CHsqTT9YTjKGT","classification":"classic & contemporary rock"}
+{"song":"San Franciscan Nights - Eric Burdon & the Animals","uri":"spotify:track:2pRxtlVOGHlcmMM1csPN4m","classification":"classic & contemporary rock"}
+{"song":"Good Times - Eric Burdon & the Animals","uri":"spotify:track:357XGtCYzQD8AgPazWHdUx","classification":"classic & contemporary rock"}
+{"song":"Help Me Girl - Eric Burdon & the Animals","uri":"spotify:track:3JaIk0OFn6bbQIHwMphD8u","classification":"classic & contemporary rock"}
+{"song":"Sky Pilot - Eric Burdon & the Animals","uri":"spotify:track:4HTN9nDmvkJ9jGddtd6zB8","classification":"classic & contemporary rock"}
+{"song":"Anything - Eric Burdon & the Animals","uri":"spotify:track:4ssz7wb04klYX6Bo9aMur9","classification":"classic & contemporary rock"}
+{"song":"Winds Of Change - Eric Burdon & the Animals","uri":"spotify:track:6ZJ3rH0WyEaX0XblztAxaP","classification":"classic & contemporary rock"}
+{"song":"When I Was Young - Eric Burdon & the Animals","uri":"spotify:track:7icAxA2OdUnNH85m1MlL0B","classification":"classic & contemporary rock"}
+{"song":"See See Rider - Eric Burdon & the Animals","uri":"spotify:track:7mGlt3k3luo8Qt69BxxZp7","classification":"classic & contemporary rock"}
+{"song":"White Houses - Eric Burdon & the Animals","uri":"spotify:track:7pYtgDaAGkqf6qong4tk45","classification":"classic & contemporary rock"}
+{"song":"Backseat Freestyle - Kendrick Lamar","uri":"spotify:track:3aGibUHhQyBsyumYHylw0K","classification":"hip hop & rap"}
+{"song":"good kid - Kendrick Lamar","uri":"spotify:track:5vuJuBqwzHJgCA1ysRfwxZ","classification":"hip hop & rap"}
+{"song":"Sing About Me, I'm Dying Of Thirst - Kendrick Lamar","uri":"spotify:track:3q2v8QaTnHLveAQzR6gvYm","classification":"hip hop & rap"}
+{"song":"In Exile - The Pineapple Thief","uri":"spotify:track:0mZIRxmun8Lg6Ec9NpPAmm","classification":"classic & contemporary rock"}
+{"song":"Lazarus - Porcupine Tree","uri":"spotify:track:7My5AMVGC5KUYgsxZVOQUI","classification":"classic & contemporary rock"}
+{"song":"Simple as That - The Pineapple Thief","uri":"spotify:track:5PnBr8FLiwsSVgt2NeKylJ","classification":"classic & contemporary rock"}
+{"song":"Nuggets (feat. Bonzai) - Mura Masa","uri":"spotify:track:0dO2Rvf0Gw8u0FyQrViT67","classification":"electronic indie & chill"}
+{"song":"Father And Son - Yusuf / Cat Stevens","uri":"spotify:track:19slC7k8bsPOAKDjHYLU2W","classification":"classic & contemporary rock"}
+{"song":"Katmandu - Yusuf / Cat Stevens","uri":"spotify:track:1bZHNjdFsbsz7NuuaDXEf4","classification":"world music"}
+{"song":"Pink + White - Frank Ocean","uri":"spotify:track:3xKsf9qdS1CyvXSMEid6g8","classification":"hip hop & rap"}
+{"song":"Mas Que Nada - Sérgio Mendes","uri":"spotify:track:6U7GUjtamt2P0LcFod1dBT","classification":"world music"}
+{"song":"Puppet Theatre - Claptone","uri":"spotify:track:5qV9FP377FrAhu1UTJCXXP","classification":"electronic indie & chill"}
+{"song":"Second Chance - Peter Bjorn and John","uri":"spotify:track:2p5ieZMPXzUSec8yaiGTvY","classification":"classic & contemporary rock"}
+{"song":"Fire - Diskopunk","uri":"spotify:track:5jRJlGB5EP7HFKwYBKvlSA","classification":"electronic indie & chill"}
+{"song":"Baby - Ariel Pink","uri":"spotify:track:2TUdxbIF3rpY887d8m0ZGV","classification":"classic & contemporary rock"}
+{"song":"Biking - Frank Ocean","uri":"spotify:track:2q0VexHJirnUPnEOhr2DxK","classification":"hip hop & rap"}
+{"song":"Cold Hard Bitch - Jet","uri":"spotify:track:5u6fnmRO5V0PTl5M2Eekeu","classification":"classic & contemporary rock"}
+{"song":"Tell Me - Cocoon","uri":"spotify:track:7JtRg3Uwyrn5WJNzFxCHwM","classification":"folk & acoustic"}
+{"song":"Gold - Chet Faker","uri":"spotify:track:03qDVofuUUQSsSQCLWX0eF","classification":"electronic indie & chill"}
+{"song":"Apocalypse - Cigarettes After Sex","uri":"spotify:track:52k6PTgqVCBHrLndNtutrC","classification":"folk & acoustic"}
+{"song":"The Dreamer - The Tallest Man On Earth","uri":"spotify:track:5oeNNiNSE0UBRzNSzx5SKZ","classification":"folk & acoustic"}
+{"song":"Love is All - The Tallest Man On Earth","uri":"spotify:track:3gVuz4Bhvxb2J0iGSH8bCZ","classification":"folk & acoustic"}
+{"song":"The Gardener - The Tallest Man On Earth","uri":"spotify:track:6oI3Inlpzlik5e7cy4Sdi8","classification":"folk & acoustic"}
+{"song":"Hey Ya! - Outkast","uri":"spotify:track:2PpruBYCo4H7WOBJ7Q2EwM","classification":"hip hop & rap"}
+{"song":"Good Times Bad Times - 1993 Remaster - Led Zeppelin","uri":"spotify:track:0QwZfbw26QeUoIy82Z2jYp","classification":"classic & contemporary rock"}
+{"song":"Slow Burn - Made in Heights","uri":"spotify:track:4ZsUKzYzaR3nYfzvBEucno","classification":"electronic indie & chill"}
+{"song":"Candy - Paolo Nutini","uri":"spotify:track:45ZmUXITNXixqBjelRmBSO","classification":"classic & contemporary rock"}
+{"song":"DUCKWORTH. - Kendrick Lamar","uri":"spotify:track:0y9uTzK9cNKSAEHnpeRG8C","classification":"hip hop & rap"}
+{"song":"Psycho - Puddle Of Mudd","uri":"spotify:track:3e2KBwxibC1rq4bA5TNKW2","classification":"classic & contemporary rock"}
+{"song":"Swalla (feat. Nicki Minaj & Ty Dolla $ign) - Jason Derulo","uri":"spotify:track:6kex4EBAj0WHXDKZMEJaaF","classification":"hip hop & rap"}
+{"song":"Crystals - Andrea Balency","uri":"spotify:track:6JLGfVtbjtyK9tzYi02CpM","classification":"electronic indie & chill"}
+{"song":"Murakami - Made in Heights","uri":"spotify:track:0qPfT1AakfNnSCYtVYIP3X","classification":"electronic indie & chill"}
+{"song":"You've Never Been Alone - Andrea Balency","uri":"spotify:track:1Bj3tDU5yTghzT5DNkyZ2Y","classification":"electronic indie & chill"}
+{"song":"Dancing to the Radio - Adanowsky","uri":"spotify:track:3FcAgpYHhcWwtXRNhzNIt5","classification":"electronic dance"}
+{"song":"Je m'en vais - Vianney","uri":"spotify:track:2Vd1vVQaBilW0O6nmU5BkH","classification":"french stuff"}
+{"song":"Bad Kingdom - Moderat","uri":"spotify:track:52sUt1HsFxScRUbOxnBQRP","classification":"electronic indie & chill"}
+{"song":"Bien réel - Peter Peter","uri":"spotify:track:0xobzJk8XofknNKIKGAb5F","classification":"french stuff"}
+{"song":"Let's Get It On - Marvin Gaye","uri":"spotify:track:0jHkgTtTaqg5LNCiYDQPUB","classification":"classic & contemporary rock"}
+{"song":"Sexual Healing - Marvin Gaye","uri":"spotify:track:3VZmChrnVW8JK6ano4gSED","classification":"classic & contemporary rock"}
+{"song":"Once Upon A Time - Marvin Gaye","uri":"spotify:track:60SBAA4eKlVzQ8GtC9MPuY","classification":"classic & contemporary rock"}
+{"song":"You - Manwolves","uri":"spotify:track:6F7CjVIrwk7PddQUsoPmoo","classification":"hip hop & rap"}
+{"song":"Thunder Road - Bruce Springsteen","uri":"spotify:track:56lhDZNQ5J47aog6mGKeGk","classification":"classic & contemporary rock"}
+{"song":"Shake That - Eminem","uri":"spotify:track:0fGh0trRN1xz3s41r7V5ce","classification":"hip hop & rap"}
+{"song":"You Don't Know Me - Jax Jones","uri":"spotify:track:1rFMYAZxBoAKSzXI54brMu","classification":"electronic dance"}
+{"song":"House Every Weekend - Radio Edit - David Zowie","uri":"spotify:track:7u9zFAWUAZy2vdVwAIAv5s","classification":"electronic dance"}
+{"song":"Ab Na Jagao - Bandish Projekt","uri":"spotify:track:2LXS8euehEBYneMrNP1ZWr","classification":"electronic indie & chill"}
+{"song":"Society - Eddie Vedder","uri":"spotify:track:4kRGpTEcDdZTAbc645OL2U","classification":"classic & contemporary rock"}
+{"song":"Blurry - Puddle Of Mudd","uri":"spotify:track:5ceGigL7CZQ3Ih6W8SIbv8","classification":"classic & contemporary rock"}
+{"song":"New Day - Karnivool","uri":"spotify:track:3XH68VARiffUSObLtIkp2J","classification":"classic & contemporary rock"}
+{"song":"Themata - Karnivool","uri":"spotify:track:4BlekeejcDoLYzv8PimDAe","classification":"classic & contemporary rock"}
+{"song":"Love$ick - Mura Masa","uri":"spotify:track:23e6ly5nFanMQOk4cAwJj2","classification":"electronic indie & chill"}
+{"song":"Intoxicated - Radio Edit - Martin Solveig","uri":"spotify:track:0dbQ4h3cs8QE5fOPMYdDrX","classification":"electronic dance"}
+{"song":"These Days - Manwolves","uri":"spotify:track:4UW4I0a056lfIaghMSvaf4","classification":"hip hop & rap"}
+{"song":"Booty Swing - Parov Stelar","uri":"spotify:track:3sMleqdCDalZ6xsAQe8xuY","classification":"electronic indie & chill"}
+{"song":"Hey Ya - Cocoon","uri":"spotify:track:6dNZFeSZ7n16Of2RL7N9OF","classification":"folk & acoustic"}
+{"song":"Emergency - Icona Pop","uri":"spotify:track:6LTdgrPeLySp1eAXD8A5vK","classification":"electronic dance"}
+{"song":"Mr. Brightside - The Killers","uri":"spotify:track:7oK9VyNzrYvRFo7nQEYkWN","classification":"classic & contemporary rock"}
+{"song":"Jenny Don't Be Hasty - Paolo Nutini","uri":"spotify:track:3G3GZnfjmypPEdkItAofp8","classification":"folk & acoustic"}
+{"song":"Crying - Roy Orbison","uri":"spotify:track:6eLL7QTdMWdhhG4i3jHDR9","classification":"classic & contemporary rock"}
+{"song":"Gabe's Song - FLEECE","uri":"spotify:track:1BSFfskiued68jF4e0oDsX","classification":"classic & contemporary rock"}
+{"song":"Swang - Rae Sremmurd","uri":"spotify:track:6mapJIPnQ23RTAevUoE0DL","classification":"hip hop & rap"}
+{"song":"Broccoli - DRAM","uri":"spotify:track:0qy5D3OJre7SPJNMOL9I71","classification":"hip hop & rap"}
+{"song":"Caroline - Aminé","uri":"spotify:track:5GFDrUTLGJix84sNhjCG0g","classification":"hip hop & rap"}
+{"song":"3WW - alt-J","uri":"spotify:track:65lTO69QCwDl3EmgU3eGKv","classification":"classic & contemporary rock"}
+{"song":"For No One - Remastered - The Beatles","uri":"spotify:track:19aATlcb67bbIdjcMA0rOa","classification":"classic & contemporary rock"}
+{"song":"Norwegian Wood (This Bird Has Flown) - Remastered - The Beatles","uri":"spotify:track:4DE42oDol0KHxympBsaiYu","classification":"classic & contemporary rock"}
+{"song":"Happiness Is A Warm Gun - Remastered - The Beatles","uri":"spotify:track:4o6QTTyoZR2e2ZlOrtqQc9","classification":"classic & contemporary rock"}
+{"song":"I Am The Walrus - Remastered - The Beatles","uri":"spotify:track:4qmvOVUt7U8szKXspAoLVy","classification":"classic & contemporary rock"}
+{"song":"When I'm Sixty Four - Remastered - The Beatles","uri":"spotify:track:4f4j8gR6Ae4FZSpthverm8","classification":"classic & contemporary rock"}
+{"song":"So Long, Frank Lloyd Wright - Simon & Garfunkel","uri":"spotify:track:4zYloXZV6NwiwXenBTc9DI","classification":"classic & contemporary rock"}
+{"song":"Never Be Like You (feat. Kai) - Flume","uri":"spotify:track:6y0igZArWVi6Iz0rj35c1Y","classification":"electronic indie & chill"}
+{"song":"Feel It Still - Portugal. The Man","uri":"spotify:track:7FESgYLcOufHqKlwrvJN60","classification":"classic & contemporary rock"}
+{"song":"Genghis Khan - Miike Snow","uri":"spotify:track:6MDijuuArPJv1vbp7K1x3f","classification":"electronic indie & chill"}
+{"song":"Legacy - Eminem","uri":"spotify:track:7KsJrA7gJkq9EEHYPdTYcl","classification":"hip hop & rap"}
+{"song":"Love The Way You Lie - Eminem","uri":"spotify:track:15JINEqzVMv3SvJTAXAKED","classification":"hip hop & rap"}
+{"song":"Rivers - The Tallest Man On Earth","uri":"spotify:track:07ZkpHysDtnBHQKbEOBZ2L","classification":"folk & acoustic"}
+{"song":"As We Proceed - GRiZMATiK","uri":"spotify:track:3anOLstTVypgnV5yVNLmc7","classification":"electronic dance"}
+{"song":"Crystalised - The xx","uri":"spotify:track:1nmCmB3qdXrzxFhvLJuhuB","classification":"electronic indie & chill"}
+{"song":"Islands - The xx","uri":"spotify:track:27BpBnTNtY9SBrE3EusnM6","classification":"electronic indie & chill"}
+{"song":"It's All Over Now, Baby Blue - Bob Dylan","uri":"spotify:track:4EgKcG7aswxVfQEqa3dl8S","classification":"classic & contemporary rock"}
+{"song":"Sandrevan Lullaby-Lifestyles - Rodríguez","uri":"spotify:track:7MbTIMUm3ywd2fmLKkTBZT","classification":"world music"}
+{"song":"Shape of You - Ed Sheeran","uri":"spotify:track:0FE9t6xYkqWXU2ahLh6D8X","classification":"hip hop & rap"}
+{"song":"Flexicution - Logic","uri":"spotify:track:6EsLX3ZbZbAZUn3iaO5MuX","classification":"hip hop & rap"}
+{"song":"Are You Gonna Be My Girl - Jet","uri":"spotify:track:305WCRhhS10XUcH6AEwZk6","classification":"classic & contemporary rock"}
+{"song":"Dreams - The Kooks","uri":"spotify:track:4PTEa5uZirN5C86dvq7vWt","classification":"classic & contemporary rock"}
+{"song":"Your New Man - Mason Jennings","uri":"spotify:track:3dDYSFXG2R2nwSePSjQIrV","classification":"folk & acoustic"}
+{"song":"Adrian - Mason Jennings","uri":"spotify:track:5blwlod9ag31N9CHgGoURa","classification":"folk & acoustic"}
+{"song":"How Deep Is That River - Mason Jennings","uri":"spotify:track:6Gc6wgjwGCMiwUX9pHuLrD","classification":"folk & acoustic"}
+{"song":"Obvs - Jamie xx","uri":"spotify:track:0XLtaEZAVBOe3kp4tN2vgr","classification":"electronic indie & chill"}
+{"song":"Gosh - Jamie xx","uri":"spotify:track:1egVLpTrGvaWtUcR2xDoaN","classification":"electronic indie & chill"}
+{"song":"Hold Tight - Jamie xx","uri":"spotify:track:2AU0mrJS0U3RC62tvo4JvL","classification":"electronic indie & chill"}
+{"song":"Loud Places - Jamie xx","uri":"spotify:track:2JQm8NNpFkwvhuKH3yhuC9","classification":"electronic indie & chill"}
+{"song":"I Know There's Gonna Be (Good Times) - Jamie xx","uri":"spotify:track:2zsa7Z6gCA5eBg0p9pbyLs","classification":"electronic indie & chill"}
+{"song":"Sleep Sound - Jamie xx","uri":"spotify:track:3pvMAdmkEnMjhxY6lFkawT","classification":"electronic indie & chill"}
+{"song":"Just Saying - Jamie xx","uri":"spotify:track:44dp9ai0cyJBETwd4qieV6","classification":"electronic indie & chill"}
+{"song":"Stranger In A Room - Jamie xx","uri":"spotify:track:5yRSmLQXcMleMwbeLpUKhX","classification":"electronic indie & chill"}
+{"song":"Girl - Jamie xx","uri":"spotify:track:6uZStsUS4t5H8td6DZqft9","classification":"electronic indie & chill"}
+{"song":"The Rest Is Noise - Jamie xx","uri":"spotify:track:77Ezu3tBE7gmzQ4mRnZZUf","classification":"electronic indie & chill"}
+{"song":"SeeSaw - Jamie xx","uri":"spotify:track:7pojepYF3lsbETtEfxaVbX","classification":"electronic indie & chill"}
+{"song":"Fake Love - Drake","uri":"spotify:track:6NMNgWgEAzde5M8U3lc6FN","classification":"hip hop & rap"}
+{"song":"Ain't Nobody (Loves Me Better) - Felix Jaehn","uri":"spotify:track:5afHIkEcVhCF1Z1CTqMUXB","classification":"electronic dance"}
+{"song":"Time with You - Georgia Mae","uri":"spotify:track:742GEKd4W3tV0T1ILvpycw","classification":"folk & acoustic"}
+{"song":"Touch - Shura","uri":"spotify:track:6S00LsQDmqMtyVy1HzROR7","classification":"electronic indie & chill"}
+{"song":"Something About Your Love - Mason Jennings","uri":"spotify:track:1ZVaf194CeE7eBItAVEUCj","classification":"folk & acoustic"}
+{"song":"Rock the Casbah - Remastered - The Clash","uri":"spotify:track:56KqaFSGTb7ifpt16t5Y1N","classification":"classic & contemporary rock"}
+{"song":"These Streets - Paolo Nutini","uri":"spotify:track:28esDV44p70LGwdPKxGZZ1","classification":"folk & acoustic"}
+{"song":"Julia - Remastered 2009 - The Beatles","uri":"spotify:track:5FnpXVgDOk2sLT58qM22Of","classification":"classic & contemporary rock"}
+{"song":"Autumn - Paolo Nutini","uri":"spotify:track:65EK5h5IS7wCkAeaatbdgg","classification":"folk & acoustic"}
+{"song":"Time In A Bottle - Jim Croce","uri":"spotify:track:12PlslqAWQUtiLoObNaj8a","classification":"classic & contemporary rock"}

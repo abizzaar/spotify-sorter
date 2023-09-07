@@ -17,7 +17,7 @@ exports.downloadLikedTracks = async function () {
         console.log(`Iteration ${i}...`)
         let tracks = await spotifyApi.getMySavedTracks({
             limit: limit,
-            offset: i
+            offset: i*limit
         });
         
         allTracks.push(...tracks.body.items)
